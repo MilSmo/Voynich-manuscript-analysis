@@ -1,0 +1,2696 @@
+2-grams-------------------------------------
+('in', 'der'): 69 times
+('er', 'sich'): 44 times
+('auf', 'der'): 36 times
+('sagte', 'er'): 35 times
+('in', 'den'): 34 times
+('auf', 'dem'): 31 times
+('in', 'die'): 29 times
+('auf', 'den'): 28 times
+('auf', 'die'): 28 times
+('sherlock', 'holmes'): 26 times
+('daß', 'ich'): 24 times
+('daß', 'er'): 23 times
+('und', 'ich'): 22 times
+('sie', 'sich'): 22 times
+('ich', 'habe'): 21 times
+('der', 'mann'): 21 times
+('nach', 'dem'): 20 times
+('und', 'die'): 20 times
+('von', 'dem'): 20 times
+('an', 'der'): 19 times
+('an', 'den'): 19 times
+('mit', 'dem'): 19 times
+('mit', 'der'): 19 times
+('von', 'der'): 19 times
+('rief', 'er'): 18 times
+('auf', 'und'): 17 times
+('über', 'die'): 17 times
+('um', 'die'): 16 times
+('es', 'ist'): 16 times
+('in', 'dem'): 15 times
+('mit', 'einem'): 15 times
+('er', 'die'): 15 times
+('sie', 'mir'): 15 times
+('sie', 'mit'): 15 times
+('an', 'die'): 15 times
+('haben', 'sie'): 15 times
+('sich', 'in'): 14 times
+('in', 'das'): 14 times
+('von', 'den'): 14 times
+('als', 'ich'): 14 times
+('rief', 'ich'): 13 times
+('er', 'in'): 13 times
+('wie', 'sie'): 13 times
+('die', 'beiden'): 13 times
+('ich', 'mich'): 12 times
+('in', 'einem'): 12 times
+('ich', 'nicht'): 12 times
+('war', 'er'): 12 times
+('die', 'kleine'): 12 times
+('und', 'dann'): 12 times
+('ich', 'ihnen'): 12 times
+('aus', 'dem'): 12 times
+('sich', 'mit'): 11 times
+('nicht', 'zu'): 11 times
+('die', 'höhe'): 11 times
+('der', 'hand'): 11 times
+('die', 'hand'): 11 times
+('als', 'er'): 11 times
+('daß', 'sie'): 11 times
+('habe', 'ich'): 11 times
+('mein', 'gefährte'): 11 times
+('aus', 'der'): 11 times
+('sie', 'in'): 11 times
+('das', 'zimmer'): 11 times
+('nach', 'der'): 11 times
+('die', 'hände'): 10 times
+('daß', 'die'): 10 times
+('er', 'hat'): 10 times
+('ist', 'er'): 10 times
+('bei', 'der'): 10 times
+('wenn', 'es'): 10 times
+('wie', 'ich'): 10 times
+('sie', 'die'): 10 times
+('in', 'seinem'): 10 times
+('sie', 'das'): 10 times
+('wenn', 'sie'): 10 times
+('auf', 'das'): 10 times
+('und', 'der'): 10 times
+('sich', 'die'): 10 times
+('fragte', 'ich'): 10 times
+('und', 'sie'): 10 times
+('es', 'war'): 10 times
+('durch', 'die'): 9 times
+('die', 'sich'): 9 times
+('ich', 'mit'): 9 times
+('zu', 'machen'): 9 times
+('sah', 'ich'): 9 times
+('ich', 'bin'): 9 times
+('war', 'der'): 9 times
+('mit', 'den'): 9 times
+('ist', 'es'): 9 times
+('ich', 'die'): 9 times
+('die', 'sache'): 9 times
+('hin', 'und'): 9 times
+('das', 'ist'): 9 times
+('war', 'ein'): 9 times
+('er', 'war'): 9 times
+('daß', 'es'): 9 times
+('und', 'das'): 9 times
+('aber', 'die'): 9 times
+('nicht', 'mehr'): 9 times
+('daß', 'der'): 9 times
+('sind', 'sie'): 9 times
+('ich', 'will'): 9 times
+('ich', 'in'): 8 times
+('und', 'auf'): 8 times
+('war', 'und'): 8 times
+('mich', 'in'): 8 times
+('und', 'da'): 8 times
+('ich', 'ihn'): 8 times
+('ich', 'es'): 8 times
+('ich', 'weiß'): 8 times
+('', 'das'): 8 times
+('fuhr', 'er'): 8 times
+('er', 'fort'): 8 times
+('sie', 'haben'): 8 times
+('fragte', 'er'): 8 times
+('ist', 'ein'): 8 times
+('und', 'wenn'): 8 times
+('hatte', 'er'): 8 times
+('er', 'nicht'): 8 times
+('er', 'mit'): 8 times
+('zu', 'haben'): 8 times
+('ich', 'sie'): 8 times
+('er', 'mir'): 8 times
+('gewesen', 'sein'): 8 times
+('der', 'brixtonstraße'): 8 times
+('sie', 'werden'): 8 times
+('hatte', 'ich'): 7 times
+('mir', 'eine'): 7 times
+('und', 'zwar'): 7 times
+('der', 'straße'): 7 times
+('daß', 'wir'): 7 times
+('ist', 'denn'): 7 times
+('und', 'er'): 7 times
+('zu', 'thun'): 7 times
+('wenn', 'er'): 7 times
+('für', 'die'): 7 times
+('', 'ich'): 7 times
+('was', 'er'): 7 times
+('hat', 'er'): 7 times
+('in', 'seinen'): 7 times
+('der', 'sich'): 7 times
+('sagte', 'ich'): 7 times
+('den', 'weg'): 7 times
+('während', 'er'): 7 times
+('an', 'und'): 7 times
+('wie', 'ein'): 7 times
+('auf', 'einen'): 7 times
+('ich', 'muß'): 7 times
+('bei', 'mir'): 7 times
+('die', 'ich'): 7 times
+('', 'was'): 7 times
+('mir', 'das'): 7 times
+('was', 'sie'): 7 times
+('wenn', 'man'): 7 times
+('sich', 'ein'): 7 times
+('ich', 'mir'): 7 times
+('welche', 'die'): 7 times
+('zu', 'dem'): 7 times
+('zu', 'hören'): 7 times
+('die', 'straße'): 7 times
+('des', 'mannes'): 7 times
+('ein', 'mann'): 7 times
+('im', 'zimmer'): 7 times
+('weiß', 'ich'): 7 times
+('wie', 'die'): 7 times
+('sagte', 'der'): 7 times
+('wir', 'haben'): 7 times
+('über', 'den'): 7 times
+('auch', 'nicht'): 7 times
+('die', 'treppe'): 7 times
+('john', 'ferrier'): 7 times
+('mit', 'solcher'): 6 times
+('zu', 'suchen'): 6 times
+('ich', 'noch'): 6 times
+('in', 'einer'): 6 times
+('wie', 'eine'): 6 times
+('mit', 'ihm'): 6 times
+('bin', 'ich'): 6 times
+('er', 'ist'): 6 times
+('und', 'ein'): 6 times
+('ein', 'mensch'): 6 times
+('als', 'wir'): 6 times
+('er', 'und'): 6 times
+('mein', 'freund'): 6 times
+('sie', 'denn'): 6 times
+('kommen', 'sie'): 6 times
+('sehen', 'sie'): 6 times
+('die', 'alte'): 6 times
+('hat', 'sich'): 6 times
+('zu', 'sein'): 6 times
+('mir', 'einen'): 6 times
+('sie', ''): 6 times
+('das', 'nicht'): 6 times
+('gar', 'nicht'): 6 times
+('', 'aber'): 6 times
+('sie', 'mich'): 6 times
+('sie', 'auf'): 6 times
+('wenn', 'ich'): 6 times
+('der', 'stadt'): 6 times
+('er', 'den'): 6 times
+('die', 'er'): 6 times
+('ich', 'das'): 6 times
+('noch', 'einmal'): 6 times
+('die', 'augen'): 6 times
+('mir', 'nicht'): 6 times
+('noch', 'nicht'): 6 times
+('hätte', 'ich'): 6 times
+('vor', 'sich'): 6 times
+('das', 'haus'): 6 times
+('am', 'boden'): 6 times
+('wie', 'er'): 6 times
+('die', 'ganze'): 6 times
+('und', 'lestrade'): 6 times
+('sie', 'ihn'): 6 times
+('ich', 'auch'): 6 times
+('und', 'seine'): 6 times
+('von', 'einer'): 6 times
+('als', 'sie'): 6 times
+('den', 'ring'): 6 times
+('sie', 'nicht'): 6 times
+('das', 'war'): 6 times
+('bei', 'dem'): 6 times
+('die', 'polizei'): 6 times
+('hatte', 'sich'): 6 times
+('', 'es'): 6 times
+('rief', 'holmes'): 6 times
+('der', 'junge'): 6 times
+('und', 'in'): 5 times
+('auf', 'ein'): 5 times
+('mit', 'einer'): 5 times
+('daß', 'man'): 5 times
+('nicht', 'ich'): 5 times
+('sich', 'auf'): 5 times
+('ein', 'daß'): 5 times
+('er', 'auf'): 5 times
+('hast', 'du'): 5 times
+('', 'er'): 5 times
+('kein', 'mensch'): 5 times
+('in', 'seine'): 5 times
+('die', 'droschke'): 5 times
+('wenn', 'wir'): 5 times
+('wir', 'uns'): 5 times
+('scheint', 'mir'): 5 times
+('noch', 'etwas'): 5 times
+('den', 'wir'): 5 times
+('an', 'dem'): 5 times
+('holmes', 'in'): 5 times
+('denn', 'das'): 5 times
+('doch', 'einmal'): 5 times
+('mich', 'nach'): 5 times
+('', 'und'): 5 times
+('er', 'hatte'): 5 times
+('er', 'sprach'): 5 times
+('sie', 'schon'): 5 times
+('den', 'kopf'): 5 times
+('aber', 'das'): 5 times
+('dachte', 'ich'): 5 times
+('so', ''): 5 times
+('ihn', 'auf'): 5 times
+('ich', 'aus'): 5 times
+('nach', 'hause'): 5 times
+('sich', 'an'): 5 times
+('ich', 'meine'): 5 times
+('den', 'ersten'): 5 times
+('zum', 'vorschein'): 5 times
+('nach', 'den'): 5 times
+('mehr', 'als'): 5 times
+('zu', 'bringen'): 5 times
+('daß', 'ein'): 5 times
+('noch', 'nie'): 5 times
+('etwas', 'von'): 5 times
+('nur', 'ein'): 5 times
+('es', 'ihm'): 5 times
+('um', 'ihn'): 5 times
+('was', 'ich'): 5 times
+('er', 'aber'): 5 times
+('das', 'er'): 5 times
+('ist', 'mir'): 5 times
+('war', 'ich'): 5 times
+('war', 'noch'): 5 times
+('alles', 'was'): 5 times
+('an', 'einem'): 5 times
+('läßt', 'sich'): 5 times
+('der', 'herr'): 5 times
+('noch', 'ein'): 5 times
+('und', 'doch'): 5 times
+('nur', 'noch'): 5 times
+('aber', 'was'): 5 times
+('gleich', 'darauf'): 5 times
+('mehr', 'zu'): 5 times
+('die', 'thür'): 5 times
+('bis', 'zu'): 5 times
+('unter', 'der'): 5 times
+('lestrade', 'und'): 5 times
+('und', 'her'): 5 times
+('meines', 'gefährten'): 5 times
+('war', 'eine'): 5 times
+('stehen', 'und'): 5 times
+('sie', 'und'): 5 times
+('aber', 'es'): 5 times
+('sich', 'noch'): 5 times
+('den', 'ich'): 5 times
+('der', 'fall'): 5 times
+('hier', 'ist'): 5 times
+('war', 'die'): 5 times
+('das', 'wort'): 5 times
+('gregson', 'und'): 5 times
+('sie', 'sind'): 5 times
+('denn', 'der'): 5 times
+('hatte', 'sie'): 5 times
+('auf', 'eine'): 5 times
+('zu', 'erkennen'): 5 times
+('was', 'ist'): 5 times
+('den', 'fall'): 5 times
+('sie', 'nur'): 5 times
+('madame', 'charpentier'): 5 times
+('nicht', 'länger'): 5 times
+('jefferson', 'hope'): 5 times
+('der', 'großen'): 5 times
+('einer', 'der'): 5 times
+('ich', 'mein'): 4 times
+('und', 'mit'): 4 times
+('bis', 'wir'): 4 times
+('worden', 'war'): 4 times
+('ein', 'höchst'): 4 times
+('für', 'einen'): 4 times
+('ich', 'hatte'): 4 times
+('ihn', 'mit'): 4 times
+('sich', 'über'): 4 times
+('aus', 'wie'): 4 times
+('mensch', 'der'): 4 times
+('ein', 'sehr'): 4 times
+('hat', 'die'): 4 times
+('der', 'wohnung'): 4 times
+('will', 'ich'): 4 times
+('ich', 'ein'): 4 times
+('kann', 'ich'): 4 times
+('für', 'meine'): 4 times
+('er', 'wieder'): 4 times
+('wir', 'nicht'): 4 times
+('schon', 'an'): 4 times
+('es', 'nicht'): 4 times
+('würde', 'er'): 4 times
+('die', 'probe'): 4 times
+('war', 'mir'): 4 times
+('sich', 'der'): 4 times
+('von', 'seinem'): 4 times
+('und', 'kam'): 4 times
+('zu', 'einem'): 4 times
+('erwiderte', 'holmes'): 4 times
+('wissen', 'sie'): 4 times
+('das', 'thut'): 4 times
+('sie', 'doch'): 4 times
+('wird', 'sich'): 4 times
+('mir', 'ein'): 4 times
+('einen', 'punkt'): 4 times
+('aber', 'auch'): 4 times
+('er', 'sie'): 4 times
+('sich', 'nur'): 4 times
+('nicht', 'um'): 4 times
+('ist', 'die'): 4 times
+('mir', 'nur'): 4 times
+('der', 'mensch'): 4 times
+('du', 'wirst'): 4 times
+('dem', 'sich'): 4 times
+('blieb', 'er'): 4 times
+('und', 'war'): 4 times
+('welche', 'ihn'): 4 times
+('an', 'daß'): 4 times
+('für', 'ihn'): 4 times
+('nicht', 'daß'): 4 times
+('war', 'es'): 4 times
+('augen', 'zu'): 4 times
+('er', 'habe'): 4 times
+('doch', 'den'): 4 times
+('sich', 'um'): 4 times
+('sie', 'es'): 4 times
+('wieder', 'zu'): 4 times
+('es', 'zu'): 4 times
+('er', 'bei'): 4 times
+('sich', 'eine'): 4 times
+('eine', 'große'): 4 times
+('glauben', 'sie'): 4 times
+('viel', 'zu'): 4 times
+('für', 'seine'): 4 times
+('alle', 'einzelheiten'): 4 times
+('mir', 'wohl'): 4 times
+('an', 'zu'): 4 times
+('der', 'welt'): 4 times
+('mir', 'die'): 4 times
+('von', 'menschen'): 4 times
+('sich', 'das'): 4 times
+('erkennen', 'daß'): 4 times
+('der', 'die'): 4 times
+('weiß', 'nicht'): 4 times
+('fort', 'und'): 4 times
+('ja', 'was'): 4 times
+('noch', 'mehr'): 4 times
+('ist', 'das'): 4 times
+('ich', 'der'): 4 times
+('hier', 'in'): 4 times
+('sie', 'zu'): 4 times
+('die', 'richtige'): 4 times
+('auf', 'meine'): 4 times
+('können', 'sie'): 4 times
+('hat', 'das'): 4 times
+('mir', 'den'): 4 times
+('der', 'that'): 4 times
+('die', 'mir'): 4 times
+('sagte', 'sie'): 4 times
+('versteht', 'sich'): 4 times
+('als', 'einer'): 4 times
+('der', 'sie'): 4 times
+('das', 'alles'): 4 times
+('einen', 'großen'): 4 times
+('ich', 'bei'): 4 times
+('den', 'brief'): 4 times
+('man', 'sie'): 4 times
+('sie', 'aber'): 4 times
+('ich', 'seine'): 4 times
+('j', 'drebber'): 4 times
+('ist', 'nicht'): 4 times
+('ist', 'der'): 4 times
+('wir', 'wollen'): 4 times
+('ist', 'ihr'): 4 times
+('im', 'nächsten'): 4 times
+('einer', 'droschke'): 4 times
+('und', 'den'): 4 times
+('der', 'sache'): 4 times
+('sind', 'wir'): 4 times
+('zu', 'sehen'): 4 times
+('unter', 'den'): 4 times
+('neben', 'dem'): 4 times
+('zu', 'entdecken'): 4 times
+('mann', 'mit'): 4 times
+('nicht', 'der'): 4 times
+('und', 'sah'): 4 times
+('die', 'andere'): 4 times
+('ihn', 'von'): 4 times
+('die', 'arme'): 4 times
+('wir', 'suchen'): 4 times
+('zu', 'finden'): 4 times
+('er', 'an'): 4 times
+('feinen', 'lederstiefel'): 4 times
+('man', 'ihn'): 4 times
+('die', 'leiche'): 4 times
+('joseph', 'stangerson'): 4 times
+('heute', 'früh'): 4 times
+('nicht', 'die'): 4 times
+('war', 'so'): 4 times
+('mit', 'seinem'): 4 times
+('in', 'dieser'): 4 times
+('er', 'kam'): 4 times
+('der', 'wand'): 4 times
+('ihn', 'zu'): 4 times
+('sich', 'nicht'): 4 times
+('sich', 'von'): 4 times
+('sie', 'sehen'): 4 times
+('den', 'mörder'): 4 times
+('da', 'er'): 4 times
+('war', 'in'): 4 times
+('auf', 'einem'): 4 times
+('der', 'schutzmann'): 4 times
+('sagen', ''): 4 times
+('das', 'licht'): 4 times
+('stand', 'ein'): 4 times
+('denken', 'sie'): 4 times
+('in', 'meinem'): 4 times
+('und', ''): 4 times
+('wollte', 'er'): 4 times
+('ließ', 'sich'): 4 times
+('war', 'keine'): 4 times
+('gesicht', 'und'): 4 times
+('und', 'es'): 4 times
+('es', 'mit'): 4 times
+('murmelte', 'er'): 4 times
+('ins', 'zimmer'): 4 times
+('rief', 'die'): 4 times
+('treppe', 'hinunter'): 4 times
+('um', 'sich'): 4 times
+('habe', 'sie'): 4 times
+('ihm', 'zu'): 4 times
+('in', 'diesem'): 4 times
+('diesem', 'augenblick'): 4 times
+('sich', 'als'): 4 times
+('wir', 'sind'): 4 times
+('sie', 'der'): 4 times
+('sich', 'zu'): 4 times
+('und', 'sein'): 4 times
+('sie', 'waren'): 4 times
+('waren', 'die'): 4 times
+('sind', 'die'): 4 times
+('das', 'kind'): 4 times
+('die', 'mormonen'): 4 times
+('gab', 'es'): 4 times
+('in', 'welchem'): 3 times
+('der', 'ersten'): 3 times
+('ich', 'wäre'): 3 times
+('ich', 'war'): 3 times
+('zwar', 'mit'): 3 times
+('wieder', 'nach'): 3 times
+('und', 'einen'): 3 times
+('da', 'ich'): 3 times
+('nicht', 'sehr'): 3 times
+('und', 'auch'): 3 times
+('über', 'das'): 3 times
+('wir', 'in'): 3 times
+('ihm', 'einen'): 3 times
+('zu', 'lösen'): 3 times
+('und', 'wer'): 3 times
+('der', 'in'): 3 times
+('chemischen', 'laboratorium'): 3 times
+('sah', 'mich'): 3 times
+('du', 'ihn'): 3 times
+('er', 'ein'): 3 times
+('ist', 'kein'): 3 times
+('kann', 'er'): 3 times
+('sein', 'wenn'): 3 times
+('ist', 'ich'): 3 times
+('ich', 'möchte'): 3 times
+('für', 'mich'): 3 times
+('in', 'afghanistan'): 3 times
+('wo', 'ich'): 3 times
+('jetzt', 'noch'): 3 times
+('sehen', 'und'): 3 times
+('und', 'zu'): 3 times
+('weg', 'nach'): 3 times
+('wenn', 'ihr'): 3 times
+('sagte', 'stamford'): 3 times
+('können', 'wir'): 3 times
+('den', 'menschen'): 3 times
+('gar', 'nichts'): 3 times
+('ich', 'halte'): 3 times
+('nicht', 'etwa'): 3 times
+('vor', 'dem'): 3 times
+('durch', 'den'): 3 times
+('kam', 'uns'): 3 times
+('uns', 'mit'): 3 times
+('er', 'eine'): 3 times
+('doktor', 'watson'): 3 times
+('holmes', 'sagte'): 3 times
+('aus', 'afghanistan'): 3 times
+('hände', 'reibend'): 3 times
+('ich', 'denke'): 3 times
+('werden', 'sie'): 3 times
+('sein', 'aber'): 3 times
+('gerade', 'in'): 3 times
+('zu', 'einer'): 3 times
+('das', 'wasser'): 3 times
+('dem', 'boden'): 3 times
+('sagen', 'sie'): 3 times
+('ein', 'paar'): 3 times
+('können', 'die'): 3 times
+('sie', 'wirklich'): 3 times
+('es', 'an'): 3 times
+('seine', 'augen'): 3 times
+('und', 'machte'): 3 times
+('sich', 'im'): 3 times
+('es', 'wäre'): 3 times
+('auch', 'der'): 3 times
+('denn', 'ich'): 3 times
+('sie', 'an'): 3 times
+('ihnen', 'vielleicht'): 3 times
+('der', 'bakerstraße'): 3 times
+('kümmern', 'sie'): 3 times
+('um', 'mich'): 3 times
+('sie', 'im'): 3 times
+('sie', 'von'): 3 times
+('ich', 'und'): 3 times
+('das', 'heißt'): 3 times
+('zwölf', 'uhr'): 3 times
+('ich', 'ihm'): 3 times
+('bei', 'seinen'): 3 times
+('ist', 'ja'): 3 times
+('der', 'stelle'): 3 times
+('ließ', 'ich'): 3 times
+('vorschein', 'kam'): 3 times
+('zeit', 'zu'): 3 times
+('den', 'ganzen'): 3 times
+('einen', 'so'): 3 times
+('ausdruck', 'an'): 3 times
+('wäre', 'er'): 3 times
+('irgend', 'ein'): 3 times
+('sechs', 'fuß'): 3 times
+('daß', 'meine'): 3 times
+('ihn', 'selbst'): 3 times
+('um', 'so'): 3 times
+('er', 'keinen'): 3 times
+('ein', 'so'): 3 times
+('sich', 'so'): 3 times
+('ohne', 'einen'): 3 times
+('haben', ''): 3 times
+('sich', 'den'): 3 times
+('wußte', 'er'): 3 times
+('er', 'so'): 3 times
+('so', 'viel'): 3 times
+('es', 'mir'): 3 times
+('habe', 'noch'): 3 times
+('wie', 'in'): 3 times
+('die', 'erde'): 3 times
+('er', 'lächelnd'): 3 times
+('werde', 'ich'): 3 times
+('an', 'wie'): 3 times
+('ein', 'irrtum'): 3 times
+('sich', 'nach'): 3 times
+('um', 'den'): 3 times
+('den', 'geringsten'): 3 times
+('die', 'frage'): 3 times
+('zu', 'denken'): 3 times
+('aus', 'den'): 3 times
+('war', 'auf'): 3 times
+('', 'null'): 3 times
+('in', 'allen'): 3 times
+('aber', 'nur'): 3 times
+('ersten', 'blick'): 3 times
+('auf', 'seinen'): 3 times
+('die', 'in'): 3 times
+('verübt', 'worden'): 3 times
+('und', 'unter'): 3 times
+('war', 'groß'): 3 times
+('augen', 'und'): 3 times
+('ob', 'er'): 3 times
+('zu', 'sagen'): 3 times
+('wieder', 'ein'): 3 times
+('die', 'leute'): 3 times
+('nicht', 'von'): 3 times
+('von', 'selbst'): 3 times
+('sollte', 'ich'): 3 times
+('', 'der'): 3 times
+('der', 'mit'): 3 times
+('es', 'für'): 3 times
+('menschen', 'und'): 3 times
+('ihm', 'in'): 3 times
+('sein', 'die'): 3 times
+('ist', 'eine'): 3 times
+('ehe', 'er'): 3 times
+('menschen', 'zu'): 3 times
+('und', 'man'): 3 times
+('für', 'ein'): 3 times
+('den', 'fingern'): 3 times
+('von', 'ihnen'): 3 times
+('ich', 'hier'): 3 times
+('in', 'london'): 3 times
+('im', 'allgemeinen'): 3 times
+('man', 'das'): 3 times
+('die', 'andern'): 3 times
+('gesehen', 'haben'): 3 times
+('sich', 'alles'): 3 times
+('in', 'ihrer'): 3 times
+('kommt', 'er'): 3 times
+('eine', 'andere'): 3 times
+('mit', 'seiner'): 3 times
+('hatte', 'der'): 3 times
+('der', 'treppe'): 3 times
+('sie', 'wohl'): 3 times
+('ich', 'den'): 3 times
+('meines', 'freundes'): 3 times
+('am', 'ende'): 3 times
+('sich', 'hin'): 3 times
+('ist', 'keine'): 3 times
+('keine', 'zeit'): 3 times
+('doch', 'das'): 3 times
+('ist', 'wie'): 3 times
+('fest', 'und'): 3 times
+('wären', 'sie'): 3 times
+('nummer', '3'): 3 times
+('zwei', 'uhr'): 3 times
+('enoch', 'j'): 3 times
+('dem', 'toten'): 3 times
+('uns', 'ein'): 3 times
+('zu', 'kommen'): 3 times
+('der', 'ganzen'): 3 times
+('rasch', 'und'): 3 times
+('der', 'er'): 3 times
+('eine', 'droschke'): 3 times
+('der', 'sonne'): 3 times
+('mir', 'auch'): 3 times
+('um', 'ihre'): 3 times
+('sie', 'nichts'): 3 times
+('in', 'ihren'): 3 times
+('er', 'es'): 3 times
+('ein', 'großer'): 3 times
+('in', 'händen'): 3 times
+('schon', 'in'): 3 times
+('kein', 'zweifel'): 3 times
+('noch', 'eine'): 3 times
+('hier', 'und'): 3 times
+('am', 'gitterthor'): 3 times
+('lehnte', 'ein'): 3 times
+('und', 'sich'): 3 times
+('im', 'hause'): 3 times
+('würde', 'sich'): 3 times
+('dem', 'hause'): 3 times
+('und', 'ab'): 3 times
+('die', 'luft'): 3 times
+('ging', 'auf'): 3 times
+('und', 'wieder'): 3 times
+('ohne', 'zweifel'): 3 times
+('was', 'mir'): 3 times
+('bevor', 'sie'): 3 times
+('höhe', 'und'): 3 times
+('hat', 'ein'): 3 times
+('bemerkte', 'er'): 3 times
+('', '\x0cnein'): 3 times
+('lestrade', 'der'): 3 times
+('wo', 'die'): 3 times
+('so', 'daß'): 3 times
+('kam', 'der'): 3 times
+('neben', 'ihm'): 3 times
+('sah', 'er'): 3 times
+('hatte', 'die'): 3 times
+('habe', 'den'): 3 times
+('hause', 'der'): 3 times
+('nach', 'einem'): 3 times
+('den', 'er'): 3 times
+('das', 'blut'): 3 times
+('ein', 'mord'): 3 times
+('ist', 'schon'): 3 times
+('und', 'betrachtete'): 3 times
+('so', 'wie'): 3 times
+('um', 'sie'): 3 times
+('haben', 'die'): 3 times
+('sie', 'auch'): 3 times
+('der', 'andere'): 3 times
+('wollen', 'sie'): 3 times
+('gegen', 'die'): 3 times
+('die', 'wand'): 3 times
+('hat', 'der'): 3 times
+('der', 'mörder'): 3 times
+('hier', 'auf'): 3 times
+('der', 'diele'): 3 times
+('sagte', 'holmes'): 3 times
+('der', 'tasche'): 3 times
+('an', 'er'): 3 times
+('durch', 'das'): 3 times
+('bis', 'er'): 3 times
+('sich', 'auch'): 3 times
+('sich', 'doch'): 3 times
+('meine', 'herren'): 3 times
+('es', 'die'): 3 times
+('ich', 'gern'): 3 times
+('audley', 'court'): 3 times
+('mir', 'zu'): 3 times
+('er', 'hier'): 3 times
+('worden', 'der'): 3 times
+('ist', 'so'): 3 times
+('war', 'das'): 3 times
+('und', 'am'): 3 times
+('konnte', 'ich'): 3 times
+('noch', 'die'): 3 times
+('die', 'schrift'): 3 times
+('die', 'feinen'): 3 times
+('in', 'meiner'): 3 times
+('die', 'stirn'): 3 times
+('ich', 'über'): 3 times
+('die', 'hauptsache'): 3 times
+('nur', 'eine'): 3 times
+('das', 'ich'): 3 times
+('war', 'wie'): 3 times
+('der', 'kutscher'): 3 times
+('bis', 'sie'): 3 times
+('sie', 'wieder'): 3 times
+('ein', 'wenig'): 3 times
+('der', 'goldene'): 3 times
+('ich', 'an'): 3 times
+('', ''): 3 times
+('', 'sie'): 3 times
+('und', 'nach'): 3 times
+('die', 'hausthür'): 3 times
+('ich', 'nahm'): 3 times
+('ich', 'ging'): 3 times
+('noch', 'immer'): 3 times
+('zu', 'schwer'): 3 times
+('aus', 'ihm'): 3 times
+('er', 'wird'): 3 times
+('nicht', 'gleich'): 3 times
+('ich', 'fürchte'): 3 times
+('suchen', 'und'): 3 times
+('hatten', 'sie'): 3 times
+('das', 'kleine'): 3 times
+('des', 'ermordeten'): 3 times
+('sich', 'aber'): 3 times
+('dem', 'tisch'): 3 times
+('und', 'dem'): 3 times
+('wenn', 'der'): 3 times
+('und', 'wird'): 3 times
+('sich', 'denn'): 3 times
+('er', 'einen'): 3 times
+('hatte', 'das'): 3 times
+('zu', 'lassen'): 3 times
+('sein', 'und'): 3 times
+('holmes', 'bei'): 3 times
+('in', 'ihrem'): 3 times
+('damit', 'er'): 3 times
+('da', 'ist'): 3 times
+('er', 'schon'): 3 times
+('während', 'die'): 3 times
+('komme', 'ich'): 3 times
+('meiner', 'tochter'): 3 times
+('war', 'sie'): 3 times
+('mischte', 'sich'): 3 times
+('zu', 'können'): 3 times
+('der', 'andern'): 3 times
+('zu', 'bett'): 3 times
+('ich', 'aber'): 3 times
+('sie', 'sollen'): 3 times
+('ihn', 'wie'): 3 times
+('keine', 'spur'): 3 times
+('dem', 'wagen'): 3 times
+('ein', 'junger'): 3 times
+('eustoner', 'bahnhof'): 3 times
+('was', 'aus'): 3 times
+('uns', 'zu'): 3 times
+('daß', 'lestrade'): 3 times
+('ihr', 'sie'): 3 times
+('als', 'ein'): 3 times
+('der', 'zeit'): 3 times
+('die', 'brust'): 3 times
+('den', 'letzten'): 3 times
+('er', 'daß'): 3 times
+('sekretär', 'stangerson'): 3 times
+('richtige', 'spur'): 3 times
+('ihm', 'von'): 3 times
+('herrn', 'drebber'): 3 times
+('die', 'tochter'): 3 times
+('er', 'wollte'): 3 times
+('ihren', 'augen'): 3 times
+('ihr', 'sohn'): 3 times
+('die', 'sie'): 3 times
+('und', 'ihm'): 3 times
+('mein', 'sohn'): 3 times
+('der', 'thür'): 3 times
+('und', 'ihn'): 3 times
+('er', 'endlich'): 3 times
+('war', 'von'): 3 times
+('versetzte', 'lestrade'): 3 times
+('der', 'nähe'): 3 times
+('wenn', 'die'): 3 times
+('sich', 'aus'): 3 times
+('gelang', 'es'): 3 times
+('wasser', 'und'): 3 times
+('beiden', 'polizisten'): 3 times
+('aber', 'der'): 3 times
+('die', 'einzig'): 3 times
+('der', 'langen'): 3 times
+('kommen', 'und'): 3 times
+('und', 'nun'): 3 times
+('der', 'sierra'): 3 times
+('über', 'ihre'): 3 times
+('als', 'die'): 3 times
+('mitten', 'in'): 3 times
+('der', 'wüste'): 3 times
+('du', 'denn'): 3 times
+('zu', 'ihm'): 3 times
+('der', 'wanderer'): 3 times
+('die', 'stimme'): 3 times
+('der', 'alte'): 3 times
+('der', 'jungen'): 3 times
+('mit', 'uns'): 3 times
+('brigham', 'young'): 3 times
+('lucy', 'ferrier'): 3 times
+('der', 'vater'): 3 times
+('im', 'gebirge'): 3 times
+('holmes', 'im'): 2 times
+('im', 'jahre'): 2 times
+('der', 'londoner'): 2 times
+('bald', 'darauf'): 2 times
+('der', 'zweite'): 2 times
+('aus', 'und'): 2 times
+('und', 'trat'): 2 times
+('trat', 'in'): 2 times
+('in', 'meine'): 2 times
+('ein', 'der'): 2 times
+('mir', 'indessen'): 2 times
+('geworfen', 'und'): 2 times
+('mit', 'sich'): 2 times
+('wir', 'die'): 2 times
+('einer', 'großen'): 2 times
+('den', 'ausgestandenen'): 2 times
+('solcher', 'heftigkeit'): 2 times
+('heftigkeit', 'daß'): 2 times
+('als', 'endlich'): 2 times
+('und', 'mein'): 2 times
+('nach', 'england'): 2 times
+('war', 'völlig'): 2 times
+('erlaubte', 'mir'): 2 times
+('während', 'der'): 2 times
+('der', 'nächsten'): 2 times
+('den', 'versuch'): 2 times
+('besaß', 'ich'): 2 times
+('mein', 'tägliches'): 2 times
+('ich', 'sah'): 2 times
+('und', 'mir'): 2 times
+('wohnung', 'zu'): 2 times
+('während', 'ich'): 2 times
+('gesicht', 'ein'): 2 times
+('dem', 'jungen'): 2 times
+('während', 'meiner'): 2 times
+('jetzt', 'aber'): 2 times
+('auch', 'er'): 2 times
+('er', 'schien'): 2 times
+('saßen', 'wir'): 2 times
+('bei', 'einem'): 2 times
+('in', 'aller'): 2 times
+('aller', 'welt'): 2 times
+('mit', 'dir'): 2 times
+('geschehen', 'watson'): 2 times
+('jetzt', 'zu'): 2 times
+('quartier', 'zu'): 2 times
+('zu', 'verschaffen'): 2 times
+('stamford', 'du'): 2 times
+('gegen', 'mich'): 2 times
+('diese', 'aeußerung'): 2 times
+('der', 'erste'): 2 times
+('ein', 'bekannter'): 2 times
+('von', 'mir'): 2 times
+('mir', 'der'): 2 times
+('dem', 'chemischen'): 2 times
+('das', 'für'): 2 times
+('allein', 'zu'): 2 times
+('die', 'kosten'): 2 times
+('über', 'sein'): 2 times
+('an', 'ihm'): 2 times
+('das', 'will'): 2 times
+('nicht', 'behaupten'): 2 times
+('hat', 'in'): 2 times
+('in', 'mancher'): 2 times
+('ein', 'mediziner'): 2 times
+('nein', ''): 2 times
+('er', 'eigentlich'): 2 times
+('er', 'nie'): 2 times
+('nach', 'seinem'): 2 times
+('sich', 'leicht'): 2 times
+('ihm', 'gerade'): 2 times
+('möchte', 'ihn'): 2 times
+('ihn', 'doch'): 2 times
+('seine', 'studien'): 2 times
+('ich', 'für'): 2 times
+('er', 'jetzt'): 2 times
+('noch', 'im'): 2 times
+('wochenlang', 'nicht'): 2 times
+('nicht', 'sehen'): 2 times
+('von', 'früh'): 2 times
+('früh', 'bis'): 2 times
+('bis', 'spät'): 2 times
+('der', 'arbeit'): 2 times
+('wir', 'ihn'): 2 times
+('mit', 'freuden'): 2 times
+('ein', 'und'): 2 times
+('und', 'wir'): 2 times
+('dem', 'hospital'): 2 times
+('aber', 'keine'): 2 times
+('machen', 'wenn'): 2 times
+('ihr', 'nicht'): 2 times
+('es', 'muß'): 2 times
+('heraus', 'mit'): 2 times
+('der', 'sprache'): 2 times
+('was', 'hast'): 2 times
+('gegen', 'den'): 2 times
+('ist', 'nur'): 2 times
+('nach', 'meinem'): 2 times
+('nicht', 'für'): 2 times
+('genau', 'zu'): 2 times
+('zu', 'beobachten'): 2 times
+('er', 'freilich'): 2 times
+('des', 'wissens'): 2 times
+('der', 'liebe'): 2 times
+('himmel', 'vor'): 2 times
+('durch', 'eine'): 2 times
+('den', 'langen'): 2 times
+('führte', 'in'): 2 times
+('dem', 'großen'): 2 times
+('den', 'wänden'): 2 times
+('und', 'überhaupt'): 2 times
+('von', 'allen'): 2 times
+('wir', 'an'): 2 times
+('dem', 'andern'): 2 times
+('einen', 'jungen'): 2 times
+('seine', 'beobachtungen'): 2 times
+('über', 'einen'): 2 times
+('er', 'von'): 2 times
+('entgegen', 'ich'): 2 times
+('das', 'sich'): 2 times
+('aus', 'als'): 2 times
+('als', 'hätte'): 2 times
+('ton', 'und'): 2 times
+('sie', 'kommen'): 2 times
+('thut', 'nichts'): 2 times
+('jetzt', 'nur'): 2 times
+('mag', 'wohl'): 2 times
+('sehr', 'interessant'): 2 times
+('interessant', 'sein'): 2 times
+('aber', 'für'): 2 times
+('der', 'praxis'): 2 times
+('es', 'von'): 2 times
+('weil', 'es'): 2 times
+('zu', 'beweisen'): 2 times
+('zog', 'mich'): 2 times
+('an', 'welchem'): 2 times
+('welchem', 'er'): 2 times
+('haben', 'sagte'): 2 times
+('er', 'das'): 2 times
+('blut', 'in'): 2 times
+('die', 'flüssigkeit'): 2 times
+('denke', 'ich'): 2 times
+('die', 'gewünschte'): 2 times
+('nahm', 'das'): 2 times
+('klatschte', 'in'): 2 times
+('vor', 'freude'): 2 times
+('freude', 'über'): 2 times
+('es', 'scheint'): 2 times
+('aber', 'ist'): 2 times
+('die', 'flecken'): 2 times
+('sind', 'meine'): 2 times
+('meine', 'erfindung'): 2 times
+('wie', 'bei'): 2 times
+('schon', 'früher'): 2 times
+('worden', 'so'): 2 times
+('so', 'hätte'): 2 times
+('hätte', 'man'): 2 times
+('meinen', 'sie'): 2 times
+('dreht', 'sich'): 2 times
+('die', 'missethat'): 2 times
+('der', 'verdacht'): 2 times
+('seine', 'kleider'): 2 times
+('der', 'wäsche'): 2 times
+('sich', 'darüber'): 2 times
+('schon', 'den'): 2 times
+('an', 'einer'): 2 times
+('augen', 'funkelten'): 2 times
+('legte', 'die'): 2 times
+('ihnen', 'ja'): 2 times
+('verwundert', 'über'): 2 times
+('fort', 'es'): 2 times
+('ja', 'ein'): 2 times
+('wohl', 'des'): 2 times
+('holmes', 'der'): 2 times
+('eben', 'ein'): 2 times
+('hand', 'in'): 2 times
+('ich', 'daß'): 2 times
+('und', 'schob'): 2 times
+('schob', 'mir'): 2 times
+('den', 'vorschlag'): 2 times
+('habe', 'ein'): 2 times
+('doch', 'nicht'): 2 times
+('ich', 'zu'): 2 times
+('zu', 'meinen'): 2 times
+('würde', 'sie'): 2 times
+('durchaus', 'nicht'): 2 times
+('sonst', 'noch'): 2 times
+('nicht', 'auf'): 2 times
+('sie', 'müssen'): 2 times
+('sein', 'so'): 2 times
+('', 'nun'): 2 times
+('nun', 'ist'): 2 times
+('haben', 'ich'): 2 times
+('', '\x0cich'): 2 times
+('den', 'tag'): 2 times
+('hinein', 'und'): 2 times
+('für', 'jetzt'): 2 times
+('jetzt', 'sind'): 2 times
+('sind', 'dies'): 2 times
+('würden', 'sie'): 2 times
+('auch', 'das'): 2 times
+('das', 'kommt'): 2 times
+('freilich', 'freilich'): 2 times
+('ab', 'dann'): 2 times
+('wir', 'zusammen'): 2 times
+('sehr', 'wohl'): 2 times
+('hand', 'schüttelnd'): 2 times
+('wir', 'ließen'): 2 times
+('ließen', 'ihn'): 2 times
+('und', 'gingen'): 2 times
+('was', 'ihn'): 2 times
+('kann', 'daß'): 2 times
+('eine', 'besondere'): 2 times
+('ein', 'rätsel'): 2 times
+('für', 'den'): 2 times
+('ihn', 'nur'): 2 times
+('ich', 'wette'): 2 times
+('besser', 'als'): 2 times
+('allein', 'nach'): 2 times
+('der', 'schlußfolgerung'): 2 times
+('am', 'nächsten'): 2 times
+('das', 'große'): 2 times
+('und', 'sehr'): 2 times
+('unter', 'uns'): 2 times
+('noch', 'am'): 2 times
+('am', 'selben'): 2 times
+('selben', 'abend'): 2 times
+('waren', 'wir'): 2 times
+('dann', 'die'): 2 times
+('uns', 'in'): 2 times
+('holmes', 'war'): 2 times
+('mensch', 'mit'): 2 times
+('zehn', 'uhr'): 2 times
+('bis', 'in'): 2 times
+('so', 'lange'): 2 times
+('bei', 'ihm'): 2 times
+('jedoch', 'ein'): 2 times
+('dann', 'lag'): 2 times
+('oder', 'ein'): 2 times
+('ein', 'wort'): 2 times
+('zu', 'reden'): 2 times
+('in', 'mir'): 2 times
+('war', 'mein'): 2 times
+('zu', 'ergründen'): 2 times
+('in', 'hohem'): 2 times
+('fuß', 'groß'): 2 times
+('der', 'blick'): 2 times
+('seiner', 'augen'): 2 times
+('und', 'eine'): 2 times
+('sie', 'trugen'): 2 times
+('ich', 'oft'): 2 times
+('bei', 'allen'): 2 times
+('mit', 'seinen'): 2 times
+('immer', 'wieder'): 2 times
+('in', 'allem'): 2 times
+('das', 'geheimnis'): 2 times
+('mich', 'um'): 2 times
+('in', 'mein'): 2 times
+('holmes', 'nicht'): 2 times
+('wußte', 'ich'): 2 times
+('seinem', 'eigenen'): 2 times
+('eigenen', 'munde'): 2 times
+('schien', 'er'): 2 times
+('ihm', 'auf'): 2 times
+('weise', 'die'): 2 times
+('er', 'mich'): 2 times
+('', 'war'): 2 times
+('zu', 'unterrichten'): 2 times
+('einen', 'bestimmten'): 2 times
+('', 'ein'): 2 times
+('thut', 'dies'): 2 times
+('als', 'seine'): 2 times
+('mir', 'schon'): 2 times
+('nie', 'etwas'): 2 times
+('als', 'sich'): 2 times
+('in', 'unserem'): 2 times
+('sein', 'kann'): 2 times
+('die', 'sonne'): 2 times
+('in', 'erstaunen'): 2 times
+('gesagt', 'haben'): 2 times
+('ja', ''): 2 times
+('meiner', 'ansicht'): 2 times
+('ansicht', 'nach'): 2 times
+('die', 'man'): 2 times
+('sich', 'damit'): 2 times
+('den', 'raum'): 2 times
+('er', 'für'): 2 times
+('die', 'ihm'): 2 times
+('und', 'hält'): 2 times
+('', '\x0cund'): 2 times
+('es', 'kommt'): 2 times
+('was', 'wir'): 2 times
+('nicht', 'durch'): 2 times
+('werden', 'aber'): 2 times
+('sie', 'sagen'): 2 times
+('so', 'würde'): 2 times
+('nicht', 'den'): 2 times
+('der', 'zunge'): 2 times
+('denn', 'eigentlich'): 2 times
+('seine', 'zwecke'): 2 times
+('sie', 'für'): 2 times
+('zu', 'verdrießen'): 2 times
+('zu', 'ziehen'): 2 times
+('ziehen', 'wenn'): 2 times
+('er', 'am'): 2 times
+('dem', 'er'): 2 times
+('alles', 'auf'): 2 times
+('ja', 'ich'): 2 times
+('ich', 'machte'): 2 times
+('', '7'): 2 times
+('', 'mit'): 2 times
+('mit', 'unterschied'): 2 times
+('blick', 'von'): 2 times
+('welcher', 'die'): 2 times
+('', 'sehr'): 2 times
+('worden', 'ist'): 2 times
+('ein', 'guter'): 2 times
+('las', 'ich'): 2 times
+('und', 'warf'): 2 times
+('kann', 'der'): 2 times
+('es', 'einen'): 2 times
+('alle', 'diese'): 2 times
+('einen', 'hut'): 2 times
+('von', 'meinen'): 2 times
+('vor', 'was'): 2 times
+('sich', 'selbst'): 2 times
+('er', 'lehnte'): 2 times
+('lehnte', 'sich'): 2 times
+('sich', 'dann'): 2 times
+('lag', 'die'): 2 times
+('er', ''): 2 times
+('leise', 'und'): 2 times
+('nur', 'den'): 2 times
+('seiner', 'einbildung'): 2 times
+('sagen', 'ich'): 2 times
+('gegen', 'seine'): 2 times
+('er', 'rasch'): 2 times
+('eine', 'ganze'): 2 times
+('wieder', 'in'): 2 times
+('sich', 'jedoch'): 2 times
+('zwar', 'in'): 2 times
+('eine', 'halbe'): 2 times
+('halbe', 'stunde'): 2 times
+('aussah', 'und'): 2 times
+('hatte', 'ein'): 2 times
+('holmes', 'und'): 2 times
+('ihm', 'das'): 2 times
+('zurück', 'er'): 2 times
+('muß', 'das'): 2 times
+('es', 'ein'): 2 times
+('bald', 'erfahren'): 2 times
+('am', 'vierten'): 2 times
+('der', 'tag'): 2 times
+('im', 'gedächtnis'): 2 times
+('und', 'fand'): 2 times
+('beim', 'frühstück'): 2 times
+('fiel', 'zuerst'): 2 times
+('kurz', 'und'): 2 times
+('und', 'bündig'): 2 times
+('das', 'ganze'): 2 times
+('der', 'zu'): 2 times
+('die', 'innersten'): 2 times
+('eines', 'jeden'): 2 times
+('zu', 'lesen'): 2 times
+('hieß', 'es'): 2 times
+('es', 'weiter'): 2 times
+('ausdauer', 'und'): 2 times
+('um', 'es'): 2 times
+('die', 'lösung'): 2 times
+('zum', 'beispiel'): 2 times
+('eines', 'menschen'): 2 times
+('deutlich', 'erkennen'): 2 times
+('die', 'verschiedenen'): 2 times
+('anzeichen', 'zu'): 2 times
+('dergleichen', 'nicht'): 2 times
+('nicht', 'vorgekommen'): 2 times
+('holmes', 'sah'): 2 times
+('an', 'sie'): 2 times
+('haben', 'den'): 2 times
+('den', 'artikel'): 2 times
+('fuhr', 'ich'): 2 times
+('ich', 'fort'): 2 times
+('im', 'lehnstuhl'): 2 times
+('einmal', 'in'): 2 times
+('er', 'wäre'): 2 times
+('so', 'ist'): 2 times
+('mir', 'von'): 2 times
+('beobachtung', 'und'): 2 times
+('und', 'schlußfolgerung'): 2 times
+('schlußfolgerung', 'die'): 2 times
+('welche', 'ich'): 2 times
+('was', 'noch'): 2 times
+('mehr', 'ist'): 2 times
+('ist', ''): 2 times
+('wie', 'ist'): 2 times
+('', 'wenn'): 2 times
+('es', 'giebt'): 2 times
+('zu', 'mir'): 2 times
+('ihnen', 'auf'): 2 times
+('sie', 'bringen'): 2 times
+('ihnen', 'mit'): 2 times
+('der', 'geschichte'): 2 times
+('des', 'verbrechens'): 2 times
+('im', 'kopfe'): 2 times
+('zu', 'enträtseln'): 2 times
+('lestrade', 'ist'): 2 times
+('deshalb', 'so'): 2 times
+('mir', 'ihre'): 2 times
+('und', 'hören'): 2 times
+('wirklich', 'während'): 2 times
+('mit', 'eigenen'): 2 times
+('eigenen', 'augen'): 2 times
+('augen', 'gesehen'): 2 times
+('alles', 'zugetragen'): 2 times
+('zugetragen', 'hat'): 2 times
+('das', 'habe'): 2 times
+('oft', 'gethan'): 2 times
+('den', 'schauplatz'): 2 times
+('schauplatz', 'der'): 2 times
+('die', 'arbeit'): 2 times
+('ist', 'für'): 2 times
+('beispiel', 'von'): 2 times
+('mir', 'ist'): 2 times
+('irgend', 'jemand'): 2 times
+('es', 'ihnen'): 2 times
+('ich', 'wußte'): 2 times
+('alles', 'in'): 2 times
+('dabei', 'eine'): 2 times
+('er', 'muß'): 2 times
+('ist', 'seine'): 2 times
+('durchgemacht', 'hat'): 2 times
+('in', 'welcher'): 2 times
+('', 'in'): 2 times
+('sehr', 'einfach'): 2 times
+('von', 'solchen'): 2 times
+('nicht', 'gedacht'): 2 times
+('deren', 'entdeckung'): 2 times
+('fuhr', 'holmes'): 2 times
+('fort', 'ich'): 2 times
+('es', 'fehlt'): 2 times
+('nicht', 'an'): 2 times
+('auf', 'erden'): 2 times
+('für', 'mein'): 2 times
+('und', 'ihre'): 2 times
+('mit', 'leichtigkeit'): 2 times
+('mich', 'ihn'): 2 times
+('wohl', 'der'): 2 times
+('da', 'drüben'): 2 times
+('ich', 'auf'): 2 times
+('er', 'hielt'): 2 times
+('und', 'hatte'): 2 times
+('holmes', 'ich'): 2 times
+('dem', 'augenblick'): 2 times
+('mann', 'den'): 2 times
+('klopfte', 'es'): 2 times
+('man', 'vernahm'): 2 times
+('trat', 'ein'): 2 times
+('ein', 'für'): 2 times
+('gelegenheit', 'um'): 2 times
+('er', 'wohl'): 2 times
+('darf', 'ich'): 2 times
+('ein', 'geschäft'): 2 times
+('lautete', 'die'): 2 times
+('waren', 'sie'): 2 times
+('auf', 'holmes'): 2 times
+('holmes', 'fort'): 2 times
+('der', 'königlichen'): 2 times
+('königlichen', 'marine'): 2 times
+('er', 'schlug'): 2 times
+('und', 'fort'): 2 times
+('brixtonstraße', 'nummer'): 2 times
+('überraschte', 'mich'): 2 times
+('ein', 'leiser'): 2 times
+('zwischen', 'den'): 2 times
+('den', 'beiden'): 2 times
+('', 'als'): 2 times
+('nach', 'holmes'): 2 times
+('er', 'eben'): 2 times
+('und', 'starrte'): 2 times
+('mann', 'ein'): 2 times
+('jetzt', 'ist'): 2 times
+('stieß', 'er'): 2 times
+('vielleicht', 'nichts'): 2 times
+('der', 'marine'): 2 times
+('mir', 'doch'): 2 times
+('so', 'würden'): 2 times
+('bemerkte', 'ich'): 2 times
+('er', 'trug'): 2 times
+('und', 'einer'): 2 times
+('mann', 'in'): 2 times
+('doch', 'sah'): 2 times
+('ihm', 'am'): 2 times
+('eben', 'noch'): 2 times
+('ich', 'fuhr'): 2 times
+('es', 'gäbe'): 2 times
+('sein', ''): 2 times
+('zu', 'urteilen'): 2 times
+('wie', 'schrecklich'): 2 times
+('sie', 'so'): 2 times
+('einen', 'lichtschimmer'): 2 times
+('schöpfte', 'er'): 2 times
+('fand', 'die'): 2 times
+('offen', 'und'): 2 times
+('dem', ''): 2 times
+('den', 'leichnam'): 2 times
+('in', 'seiner'): 2 times
+('eine', 'beraubung'): 2 times
+('denn', 'es'): 2 times
+('das', 'leere'): 2 times
+('leere', 'haus'): 2 times
+('gekommen', 'sein'): 2 times
+('sie', 'geneigt'): 2 times
+('zu', 'ihrer'): 2 times
+('tobias', 'gregson'): 2 times
+('giebt', 'es'): 2 times
+('schien', 'mir'): 2 times
+('ist', 'doch'): 2 times
+('soll', 'ich'): 2 times
+('ein', 'andermal'): 2 times
+('dies', 'ist'): 2 times
+('gerade', 'ein'): 2 times
+('das', 'hat'): 2 times
+('hat', 'man'): 2 times
+('ist', 'aber'): 2 times
+('aber', 'er'): 2 times
+('ihre', 'hilfe'): 2 times
+('weiß', 'daß'): 2 times
+('auch', 'zu'): 2 times
+('die', 'zunge'): 2 times
+('uns', 'die'): 2 times
+('auch', 'sonst'): 2 times
+('nichts', 'davon'): 2 times
+('davon', 'habe'): 2 times
+('rasch', 'in'): 2 times
+('ich', 'wohl'): 2 times
+('sah', 'die'): 2 times
+('wo', 'ist'): 2 times
+('wünschen', 'sie'): 2 times
+('schon', 'im'): 2 times
+('nächsten', 'augenblick'): 2 times
+('und', 'fuhren'): 2 times
+('mit', 'windeseile'): 2 times
+('in', 'einen'): 2 times
+('ließ', 'die'): 2 times
+('mit', 'großer'): 2 times
+('unterschied', 'zwischen'): 2 times
+('auf', 'mein'): 2 times
+('nicht', 'mit'): 2 times
+('die', 'es'): 2 times
+('es', 'sich'): 2 times
+('unterbrach', 'ich'): 2 times
+('ich', 'holmes'): 2 times
+('bald', 'genug'): 2 times
+('wir', 'schon'): 2 times
+('zu', 'fuß'): 2 times
+('haus', 'nummer'): 2 times
+('zwei', 'waren'): 2 times
+('ein', 'hölzernes'): 2 times
+('bildete', 'die'): 2 times
+('drinnen', 'im'): 2 times
+('seine', 'untersuchungen'): 2 times
+('er', 'vor'): 2 times
+('den', 'blick'): 2 times
+('den', 'boden'): 2 times
+('bald', 'in'): 2 times
+('nach', 'einer'): 2 times
+('er', 'ging'): 2 times
+('zur', 'erde'): 2 times
+('es', 'waren'): 2 times
+('waren', 'wie'): 2 times
+('ich', 'schon'): 2 times
+('von', 'ihm'): 2 times
+('er', 'ohne'): 2 times
+('holmes', 'zu'): 2 times
+('und', 'schüttelte'): 2 times
+('ihm', 'mit'): 2 times
+('alles', 'ist'): 2 times
+('ist', 'noch'): 2 times
+('unberührt', 'geblieben'): 2 times
+('nur', 'nicht'): 2 times
+('thun', 'sagte'): 2 times
+('der', 'detektiv'): 2 times
+('hier', 'ich'): 2 times
+('sich', 'darum'): 2 times
+('darum', 'kümmern'): 2 times
+('holmes', 'zog'): 2 times
+('zog', 'die'): 2 times
+('mich', 'an'): 2 times
+('an', 'ort'): 2 times
+('ort', 'und'): 2 times
+('und', 'stelle'): 2 times
+('ein', 'dritter'): 2 times
+('\x0cnein', 'ich'): 2 times
+('nicht', 'aber'): 2 times
+('kam', 'auch'): 2 times
+('wohl', 'das'): 2 times
+('wie', 'das'): 2 times
+('gregson', 'machte'): 2 times
+('machte', 'ein'): 2 times
+('er', 'holmes'): 2 times
+('noch', 'zwei'): 2 times
+('zimmer', 'wo'): 2 times
+('dort', 'ein'): 2 times
+('des', 'todes'): 2 times
+('da', 'mit'): 2 times
+('der', 'thüre'): 2 times
+('einer', 'ecke'): 2 times
+('ein', 'rotes'): 2 times
+('das', 'einzige'): 2 times
+('war', 'mit'): 2 times
+('zu', 'der'): 2 times
+('boden', 'lag'): 2 times
+('mann', 'von'): 2 times
+('von', 'etwa'): 2 times
+('haar', 'und'): 2 times
+('ihn', 'noch'): 2 times
+('die', 'breite'): 2 times
+('durch', 'seine'): 2 times
+('in', 'jenem'): 2 times
+('fall', 'wird'): 2 times
+('aber', 'etwas'): 2 times
+('war', 'neben'): 2 times
+('dem', 'leichnam'): 2 times
+('eine', 'wunde'): 2 times
+('sie', 'also'): 2 times
+('sie', 'den'): 2 times
+('die', 'geschichte'): 2 times
+('dorthin', 'er'): 2 times
+('alle', 'glieder'): 2 times
+('solcher', 'schnelligkeit'): 2 times
+('ich', 'kaum'): 2 times
+('den', 'lippen'): 2 times
+('lippen', 'des'): 2 times
+('des', 'toten'): 2 times
+('er', 'noch'): 2 times
+('genau', 'so'): 2 times
+('gefunden', 'hat'): 2 times
+('er', 'wir'): 2 times
+('gut', 'dann'): 2 times
+('dann', 'lassen'): 2 times
+('lassen', 'sie'): 2 times
+('ihn', 'jetzt'): 2 times
+('ist', 'nichts'): 2 times
+('fiel', 'ein'): 2 times
+('zu', 'boden'): 2 times
+('die', 'diele'): 2 times
+('darauf', 'zu'): 2 times
+('der', 'trauring'): 2 times
+('einer', 'frau'): 2 times
+('alle', 'nach'): 2 times
+('hand', 'welche'): 2 times
+('wir', 'werden'): 2 times
+('werden', 'nicht'): 2 times
+('davon', 'haben'): 2 times
+('nichts', 'in'): 2 times
+('den', 'taschen'): 2 times
+('der', 'ganze'): 2 times
+('eine', 'kurze'): 2 times
+('drebber', 'aus'): 2 times
+('aus', 'cleveland'): 2 times
+('der', 'name'): 2 times
+('stand', 'der'): 2 times
+('im', 'begriff'): 2 times
+('versetzte', 'gregson'): 2 times
+('sämtliche', 'zeitungen'): 2 times
+('geschickt', 'worden'): 2 times
+('auch', 'ist'): 2 times
+('in', 'cleveland'): 2 times
+('ist', 'heute'): 2 times
+('', '\x0cwas'): 2 times
+('habe', 'nach'): 2 times
+('nicht', 'eine'): 2 times
+('eine', 'thatsache'): 2 times
+('nicht', 'noch'): 2 times
+('war', 'zu'): 2 times
+('zu', 'uns'): 2 times
+('ich', 'eine'): 2 times
+('augen', 'des'): 2 times
+('funkelten', 'vor'): 2 times
+('den', 'rang'): 2 times
+('an', 'seiner'): 2 times
+('hielt', 'es'): 2 times
+('mit', 'großen'): 2 times
+('fuhr', 'lestrade'): 2 times
+('lestrade', 'fort'): 2 times
+('wo', 'es'): 2 times
+('beweis', 'daß'): 2 times
+('dem', 'kaminsims'): 2 times
+('sonst', 'so'): 2 times
+('dem', 'zimmer'): 2 times
+('holmes', 'ein'): 2 times
+('haben', 'schien'): 2 times
+('hielt', 'er'): 2 times
+('sich', 'durch'): 2 times
+('zu', 'neuer'): 2 times
+('mir', 'vor'): 2 times
+('und', 'keine'): 2 times
+('die', 'für'): 2 times
+('richtete', 'er'): 2 times
+('er', 'sein'): 2 times
+('wand', 'und'): 2 times
+('nichts', 'als'): 2 times
+('für', 'sich'): 2 times
+('des', 'geheimpolizisten'): 2 times
+('klar', 'zu'): 2 times
+('machen', 'was'): 2 times
+('wußte', 'daß'): 2 times
+('fest', 'im'): 2 times
+('jetzt', 'in'): 2 times
+('sind', 'auf'): 2 times
+('da', 'wäre'): 2 times
+('die', 'größte'): 2 times
+('wollte', 'ich'): 2 times
+('gern', 'zu'): 2 times
+('den', 'schutzmann'): 2 times
+('mir', 'bitte'): 2 times
+('bitte', 'wie'): 2 times
+('john', 'rance'): 2 times
+('ihn', 'sicher'): 2 times
+('die', 'adresse'): 2 times
+('will', 'sie'): 2 times
+('sie', 'noch'): 2 times
+('begangen', 'worden'): 2 times
+('breiten', 'spitzen'): 2 times
+('droschke', 'angefahren'): 2 times
+('hat', 'eine'): 2 times
+('rötliche', 'gesichtsfarbe'): 2 times
+('der', 'rechten'): 2 times
+('das', 'sind'): 2 times
+('aber', 'sie'): 2 times
+('ihnen', 'doch'): 2 times
+('und', 'gregson'): 2 times
+('sahen', 'einander'): 2 times
+('wenn', 'ein'): 2 times
+('ein', 'uhr'): 2 times
+('um', 'uns'): 2 times
+('eine', 'lange'): 2 times
+('er', 'wenn'): 2 times
+('ganz', 'klar'): 2 times
+('sein', 'wie'): 2 times
+('sie', 'uns'): 2 times
+('er', 'als'): 2 times
+('an', 'das'): 2 times
+('entstanden', 'sein'): 2 times
+('nachdem', 'das'): 2 times
+('das', 'erdreich'): 2 times
+('auch', 'die'): 2 times
+('neu', 'war'): 2 times
+('mehr', 'da'): 2 times
+('da', 'wie'): 2 times
+('wie', 'aber'): 2 times
+('das', 'aeußere'): 2 times
+('aeußere', 'des'): 2 times
+('aber', 'ich'): 2 times
+('im', 'weichen'): 2 times
+('augen', 'die'): 2 times
+('nun', 'wenn'): 2 times
+('geheimnis', 'ist'): 2 times
+('nicht', 'dabei'): 2 times
+('hatte', 'den'): 2 times
+('fand', 'ich'): 2 times
+('ja', 'sogar'): 2 times
+('ich', 'schmeichle'): 2 times
+('schmeichle', 'mir'): 2 times
+('zwischen', 'dem'): 2 times
+('der', 'dinge'): 2 times
+('ich', 'überzeugt'): 2 times
+('überzeugt', 'bin'): 2 times
+('bin', 'daß'): 2 times
+('hand', 'an'): 2 times
+('stirn', 'es'): 2 times
+('ich', 'je'): 2 times
+('je', 'mehr'): 2 times
+('mehr', 'ich'): 2 times
+('hat', 'wie'): 2 times
+('konnte', 'der'): 2 times
+('', 'daß'): 2 times
+('sein', 'sollte'): 2 times
+('alle', 'die'): 2 times
+('über', 'mein'): 2 times
+('beifällig', 'sie'): 2 times
+('hauptsache', 'bin'): 2 times
+('zwar', 'im'): 2 times
+('polizei', 'auf'): 2 times
+('falsche', 'fährte'): 2 times
+('fährte', 'zu'): 2 times
+('zu', 'locken'): 2 times
+('die', 'that'): 2 times
+('that', 'im'): 2 times
+('im', 'auftrag'): 2 times
+('irgend', 'einem'): 2 times
+('', 'so'): 2 times
+('ich', 'werde'): 2 times
+('ansehen', 'eines'): 2 times
+('es', 'aus'): 2 times
+('in', 'kürzester'): 2 times
+('kürzester', 'frist'): 2 times
+('wurde', 'rot'): 2 times
+('doch', 'noch'): 2 times
+('dem', 'groben'): 2 times
+('groben', 'schuhwerk'): 2 times
+('zimmer', 'hin'): 2 times
+('still', 'und'): 2 times
+('sich', 'zur'): 2 times
+('nicht', 'das'): 2 times
+('ich', 'darf'): 2 times
+('jetzt', 'nicht'): 2 times
+('noch', 'in'): 2 times
+('die', 'neruda'): 2 times
+('während', 'unseres'): 2 times
+('unseres', 'gesprächs'): 2 times
+('hielt', 'der'): 2 times
+('war', 'nach'): 2 times
+('gelegt', 'und'): 2 times
+('schon', 'auf'): 2 times
+('tasche', 'und'): 2 times
+('und', 'drehte'): 2 times
+('nichts', 'dagegen'): 2 times
+('dem', 'alten'): 2 times
+('und', 'legte'): 2 times
+('uhr', 'abends'): 2 times
+('uhr', 'morgens'): 2 times
+('um', 'elf'): 2 times
+('elf', 'uhr'): 2 times
+('›weißen', 'hirsch‹'): 2 times
+('und', 'etwas'): 2 times
+('uhr', 'kam'): 2 times
+('die', 'brixtonstraße'): 2 times
+('um', 'zu'): 2 times
+('sehen', 'ob'): 2 times
+('', 'da'): 2 times
+('da', 'sah'): 2 times
+('der', 'letzte'): 2 times
+('die', 'thüre'): 2 times
+('dem', 'gartenthor'): 2 times
+('fragte', 'holmes'): 2 times
+('es', 'denn'): 2 times
+('und', 'alles'): 2 times
+('vielleicht', 'ein'): 2 times
+('kenne', 'ich'): 2 times
+('aber', 'wenn'): 2 times
+('der', 'verstorbene'): 2 times
+('nicht', 'einmal'): 2 times
+('thür', 'und'): 2 times
+('und', 'stieß'): 2 times
+('war', 'alles'): 2 times
+('hell', 'auf'): 2 times
+('ich', ''): 2 times
+('um', 'das'): 2 times
+('zu', 'öffnen'): 2 times
+('seinem', 'sitz'): 2 times
+('sitz', 'in'): 2 times
+('sein', 'sonst'): 2 times
+('könnten', 'sie'): 2 times
+('heraus', 'und'): 2 times
+('ihnen', 'die'): 2 times
+('die', 'herren'): 2 times
+('herren', 'gregson'): 2 times
+('nur', 'weiter'): 2 times
+('wieder', 'platz'): 2 times
+('platz', 'genommen'): 2 times
+('hatte', 'aber'): 2 times
+('aber', 'noch'): 2 times
+('mit', 'meiner'): 2 times
+('was', 'soll'): 2 times
+('das', 'gesicht'): 2 times
+('ich', "hab'"): 2 times
+('aber', 'ein'): 2 times
+('mir', 'noch'): 2 times
+('hatte', 'mir'): 2 times
+('mir', 'keine'): 2 times
+('keine', 'hilfe'): 2 times
+('den', 'füßen'): 2 times
+('holmes', 'ins'): 2 times
+('beschäftigt', 'gewesen'): 2 times
+('sein', 'gesicht'): 2 times
+('unter', 'die'): 2 times
+('ihm', 'geworden'): 2 times
+('gefunden', 'haben'): 2 times
+('braunen', 'ueberrock'): 2 times
+('eine', 'peitsche'): 2 times
+('kam', 'nicht'): 2 times
+('nahm', 'seinen'): 2 times
+('seinen', 'hut'): 2 times
+('für', 'sie'): 2 times
+('nicht', 'ganz'): 2 times
+('zu', 'nichts'): 2 times
+('sie', 'hätten'): 2 times
+('den', 'mann'): 2 times
+('der', 'den'): 2 times
+('war', 'ihm'): 2 times
+('ihm', 'nicht'): 2 times
+('holmes', 'ärgerlich'): 2 times
+('wir', 'wieder'): 2 times
+('um', 'nach'): 2 times
+('auch', 'ganz'): 2 times
+('ganz', 'gewiß'): 2 times
+('er', 'der'): 2 times
+('der', 'verbrecher'): 2 times
+('der', 'ring'): 2 times
+('', 'den'): 2 times
+('müssen', 'wir'): 2 times
+('wäre', 'um'): 2 times
+('', 'jetzt'): 2 times
+('ins', 'konzert'): 2 times
+('der', 'natur'): 2 times
+('ich', 'fühlte'): 2 times
+('fühlte', 'mich'): 2 times
+('mich', 'sehr'): 2 times
+('sobald', 'ich'): 2 times
+('wohl', 'ein'): 2 times
+('drebber', 'noch'): 2 times
+('noch', 'so'): 2 times
+('sein', 'das'): 2 times
+('nicht', 'in'): 2 times
+('es', 'schien'): 2 times
+('schon', 'eine'): 2 times
+('glaubte', 'ich'): 2 times
+('an', 'seinem'): 2 times
+('erkennen', 'auf'): 2 times
+('auf', 'welche'): 2 times
+('welche', 'weise'): 2 times
+('war', 'schon'): 2 times
+('tisch', 'und'): 2 times
+('er', 'nichts'): 2 times
+('sie', 'aus'): 2 times
+('bericht', 'über'): 2 times
+('mich', 'daß'): 2 times
+('abend', 'in'): 2 times
+('zwischen', '8'): 2 times
+('ich', 'meinen'): 2 times
+('denn', 'auf'): 2 times
+('was', 'glauben'): 2 times
+('nicht', 'selbst'): 2 times
+('sollte', 'er'): 2 times
+('auch', ''): 2 times
+('zu', 'bekommen'): 2 times
+('drebbers', 'leichnam'): 2 times
+('erst', 'als'): 2 times
+('sich', 'einmal'): 2 times
+('als', 'daß'): 2 times
+('unsere', 'anzeige'): 2 times
+('in', 'eine'): 2 times
+('noch', 'vor'): 2 times
+('hier', 'sein'): 2 times
+('mich', 'nur'): 2 times
+('haben', 'es'): 2 times
+('hoffe', 'ich'): 2 times
+('und', 'folgte'): 2 times
+('folgte', 'seinem'): 2 times
+('seinem', 'rat'): 2 times
+('zieht', 'sich'): 2 times
+('aus', 'amerika'): 2 times
+('antwort', 'auf'): 2 times
+('ansicht', 'über'): 2 times
+('war', 'ganz'): 2 times
+('was', 'denken'): 2 times
+('fort', 'so'): 2 times
+('in', 'wenigen'): 2 times
+('ich', 'glaube'): 2 times
+('es', 'kam'): 2 times
+('gewaltthätigen', 'menschen'): 2 times
+('vor', 'uns'): 2 times
+('etwas', 'zu'): 2 times
+('sie', 'ein'): 2 times
+('deutete', 'auf'): 2 times
+('ist', 'sie'): 2 times
+('mit', ''): 2 times
+('ihr', 'ring'): 2 times
+('griff', 'nach'): 2 times
+('houndsditch', 'dunkanstraße'): 2 times
+('kommt', 'man'): 2 times
+('man', 'nicht'): 2 times
+('einen', 'scharfen'): 2 times
+('hat', 'mich'): 2 times
+('mein', 'name'): 2 times
+('name', 'ist'): 2 times
+('weil', 'sie'): 2 times
+('ihm', 'die'): 2 times
+('frau', 'sawyer'): 2 times
+('wieder', 'zur'): 2 times
+('kaum', 'war'): 2 times
+('eine', 'minute'): 2 times
+('unter', 'einer'): 2 times
+('stecken', 'und'): 2 times
+('wird', 'mir'): 2 times
+('mir', 'auf'): 2 times
+('bis', 'ich'): 2 times
+('ich', 'wieder'): 2 times
+('wieder', 'da'): 2 times
+('als', 'holmes'): 2 times
+('holmes', 'die'): 2 times
+('sehen', 'wie'): 2 times
+('es', 'wird'): 2 times
+('neun', 'uhr'): 2 times
+('die', 'wirtin'): 2 times
+('in', 'ein'): 2 times
+('und', 'sank'): 2 times
+('einen', 'stuhl'): 2 times
+('so', 'oft'): 2 times
+('hören', 'wie'): 2 times
+('eine', 'kleine'): 2 times
+('strecke', 'weit'): 2 times
+('sie', 'blieb'): 2 times
+('herbei', 'um'): 2 times
+('ich', 'näher'): 2 times
+('rief', 'sie'): 2 times
+('das', 'ende'): 2 times
+('fürchte', 'er'): 2 times
+('sie', 'wollen'): 2 times
+('daß', 'das'): 2 times
+('das', 'alte'): 2 times
+('und', 'daß'): 2 times
+('daß', 'weder'): 2 times
+('uns', 'so'): 2 times
+('hatte', ''): 2 times
+('nicht', 'so'): 2 times
+('gehen', 'sie'): 2 times
+('aus', 'ich'): 2 times
+('tief', 'in'): 2 times
+('und', 'wußte'): 2 times
+('einem', 'langen'): 2 times
+('ich', 'bewahre'): 2 times
+('name', 'des'): 2 times
+('schrift', 'an'): 2 times
+('in', 'amerika'): 2 times
+('und', 'sei'): 2 times
+('die', 'nach'): 2 times
+('und', 'alle'): 2 times
+('ein', 'herr'): 2 times
+('hielt', 'sich'): 2 times
+('in', 'torquay'): 2 times
+('torquay', 'terrace'): 2 times
+('dem', 'eustoner'): 2 times
+('nach', 'liverpool'): 2 times
+('über', 'sie'): 2 times
+('leeren', 'hause'): 2 times
+('ist', 'weiß'): 2 times
+('lestrade', 'mit'): 2 times
+('sind', 'und'): 2 times
+('sich', 'bald'): 2 times
+('des', 'sekretärs'): 2 times
+('sei', 'und'): 2 times
+('es', 'daß'): 2 times
+('ihrer', 'bemühungen'): 2 times
+('zu', 'entkommen'): 2 times
+('fehlt', 'ihnen'): 2 times
+('denn', 'da'): 2 times
+('der', 'lärm'): 2 times
+('hören', 'sie'): 2 times
+('ich', 'als'): 2 times
+('sagte', 'mein'): 2 times
+('kam', 'ein'): 2 times
+('zu', 'gesicht'): 2 times
+('bericht', 'zu'): 2 times
+('unten', 'auf'): 2 times
+('haben', 'wir'): 2 times
+('fort', 'mit'): 2 times
+('mit', 'euch'): 2 times
+('machten', 'sie'): 2 times
+('den', 'kleinen'): 2 times
+('ein', 'dutzend'): 2 times
+('bemerkte', 'holmes'): 2 times
+('ihnen', 'nur'): 2 times
+('nur', 'die'): 2 times
+('den', 'sie'): 2 times
+('es', 'handelt'): 2 times
+('handelt', 'sich'): 2 times
+('gezogen', 'und'): 2 times
+('licht', 'in'): 2 times
+('die', 'rechte'): 2 times
+('rechte', 'spur'): 2 times
+('spur', 'gefunden'): 2 times
+('sich', 'stolz'): 2 times
+('stolz', 'in'): 2 times
+('holmes', 'atmete'): 2 times
+('ist', 'ihnen'): 2 times
+('ein', 'glas'): 2 times
+('herr', 'holmes'): 2 times
+('mit', 'wohlgefallen'): 2 times
+('brach', 'in'): 2 times
+('aus', 'es'): 2 times
+('hat', 'es'): 2 times
+('es', 'auf'): 2 times
+('den', 'sekretär'): 2 times
+('gemacht', 'und'): 2 times
+('denn', 'aber'): 2 times
+('die', 'erste'): 2 times
+('galt', 'war'): 2 times
+('von', 'drebbers'): 2 times
+('auf', 'seine'): 2 times
+('von', 'bedeutung'): 2 times
+('ich', 'wollte'): 2 times
+('der', 'hut'): 2 times
+('war', 'an'): 2 times
+('charpentier', 'auf'): 2 times
+('auch', 'ihre'): 2 times
+('ein', 'ungewöhnlich'): 2 times
+('und', 'als'): 2 times
+('plötzlich', 'auf'): 2 times
+('durch', 'alle'): 2 times
+('die', 'mutter'): 2 times
+('erwiderte', 'sie'): 2 times
+('einen', 'um'): 2 times
+('dem', 'ersten'): 2 times
+('einem', 'augenblick'): 2 times
+('›laß', 'uns'): 2 times
+('entgegnete', 'sie'): 2 times
+('sohn', 'ist'): 2 times
+('sie', '›wenn'): 2 times
+('gleich', 'am'): 2 times
+('mit', 'ihr'): 2 times
+('lästigen', 'menschen'): 2 times
+('menschen', 'los'): 2 times
+('werden', 'können'): 2 times
+('›ich', 'weiß'): 2 times
+('pfund', 'die'): 2 times
+('aber', 'nicht'): 2 times
+('und', 'wie'): 2 times
+('jetzt', 'auf'): 2 times
+('denn', 'er'): 2 times
+('den', 'zug'): 2 times
+('zu', 'tode'): 2 times
+('vor', 'ihm'): 2 times
+('ergriff', 'sie'): 2 times
+('sie', 'am'): 2 times
+('stock', 'in'): 2 times
+('mit', 'ihrem'): 2 times
+('flüsterte', 'sie'): 2 times
+('und', 'ließ'): 2 times
+('seine', 'schulter'): 2 times
+('zu', 'folgen'): 2 times
+('denn', 'den'): 2 times
+('bis', 'zur'): 2 times
+('holmes', 'beifällig'): 2 times
+('es', 'kann'): 2 times
+('mir', 'daß'): 2 times
+('ich', 'alles'): 2 times
+('junge', 'mann'): 2 times
+('steif', 'und'): 2 times
+('und', 'fest'): 2 times
+('es', 'macht'): 2 times
+('er', 'selbst'): 2 times
+('den', 'händen'): 2 times
+('man', 'in'): 2 times
+('hallidays', 'privathotel'): 2 times
+('gegen', 'acht'): 2 times
+('acht', 'uhr'): 2 times
+('seinem', 'schlafzimmer'): 2 times
+('gefunden', ''): 2 times
+('und', 'nahm'): 2 times
+('was', 'sich'): 2 times
+('zu', 'berichten'): 2 times
+('der', 'kleinen'): 2 times
+('schon', 'seit'): 2 times
+('meinte', 'der'): 2 times
+('ihn', 'ganz'): 2 times
+('die', 'schwelle'): 2 times
+('der', 'schon'): 2 times
+('seine', 'glieder'): 2 times
+('sagte', 'sherlock'): 2 times
+('die', 'der'): 2 times
+('sein', 'der'): 2 times
+('mannes', 'war'): 2 times
+('doch', 'war'): 2 times
+('des', 'verbrechers'): 2 times
+('sich', 'weder'): 2 times
+('lag', 'auf'): 2 times
+('pillen', 'enthielt'): 2 times
+('sprang', 'sherlock'): 2 times
+('er', 'nun'): 2 times
+('in', 'meinen'): 2 times
+('zugleich', 'mit'): 2 times
+('der', 'polizei'): 2 times
+('polizei', 'zu'): 2 times
+('nach', 'ihrer'): 2 times
+('glaube', 'ich'): 2 times
+('auch', 'sagte'): 2 times
+('einmal', 'den'): 2 times
+('der', 'schachtel'): 2 times
+('wasser', 'in'): 2 times
+('was', 'es'): 2 times
+('stangersons', 'tode'): 2 times
+('milch', 'dazu'): 2 times
+('der', 'hund'): 2 times
+('einen', 'immer'): 2 times
+('die', 'lippen'): 2 times
+('plötzlich', 'stieß'): 2 times
+('lag', 'es'): 2 times
+('mich', 'so'): 2 times
+('eine', 'der'): 2 times
+('sie', 'gleich'): 2 times
+('und', 'ihr'): 2 times
+('aber', 'mit'): 2 times
+('hier', 'nicht'): 2 times
+('er', 'im'): 2 times
+('sein', 'sagte'): 2 times
+('ich', 'hoffe'): 2 times
+('ist', 'auch'): 2 times
+('zu', 'den'): 2 times
+('ihrem', 'herzen'): 2 times
+('ein', 'das'): 2 times
+('sein', 'es'): 2 times
+('vor', 'den'): 2 times
+('wie', 'durch'): 2 times
+('riß', 'sich'): 2 times
+('bei', 'seinem'): 2 times
+('von', 'hinten'): 2 times
+('der', 'sicherheit'): 2 times
+('noch', 'an'): 2 times
+('unten', 'wir'): 2 times
+('', 'doch'): 2 times
+('dies', 'land'): 2 times
+('scharen', 'von'): 2 times
+('es', 'wohl'): 2 times
+('sierra', 'bianca'): 2 times
+('rings', 'umher'): 2 times
+('sich', 'grell'): 2 times
+('grell', 'von'): 2 times
+('der', 'grauen'): 2 times
+('', 'die'): 2 times
+('gesicht', 'die'): 2 times
+('haupt', 'und'): 2 times
+('verrieten', 'nur'): 2 times
+('nur', 'zu'): 2 times
+('zu', 'deutlich'): 2 times
+('mann', 'war'): 2 times
+('um', 'vor'): 2 times
+('vor', 'hunger'): 2 times
+('hunger', 'und'): 2 times
+('und', 'durst'): 2 times
+('die', 'große'): 2 times
+('das', 'land'): 2 times
+('über', 'der'): 2 times
+('das', 'bündel'): 2 times
+('und', 'aus'): 2 times
+('du', 'hast'): 2 times
+('ihr', 'gefährte'): 2 times
+('dann', 'wird'): 2 times
+('so', 'was'): 2 times
+('und', 'jetzt'): 2 times
+('alles', 'gut'): 2 times
+('sagen', 'wie'): 2 times
+('wie', 'wir'): 2 times
+('ein', 'anderer'): 2 times
+('es', 'das'): 2 times
+('nur', 'für'): 2 times
+('', 'du'): 2 times
+('sie', 'ihm'): 2 times
+('das', 'dunkle'): 2 times
+('schulter', 'und'): 2 times
+('und', 'du'): 2 times
+('mit', 'braunem'): 2 times
+('des', 'westens'): 2 times
+('vor', 'und'): 2 times
+('der', 'felswand'): 2 times
+('und', 'bald'): 2 times
+('auch', 'jetzt'): 2 times
+('dem', 'dunst'): 2 times
+('der', 'ferne'): 2 times
+('dem', 'westen'): 2 times
+('erreicht', 'hatte'): 2 times
+('hatte', 'war'): 2 times
+('eine', 'neue'): 2 times
+('erhob', 'sich'): 2 times
+('die', 'räder'): 2 times
+('ernste', 'männer'): 2 times
+('der', 'schulter'): 2 times
+('bruder', 'stangerson'): 2 times
+('pferde', 'fest'): 2 times
+('die', 'den'): 2 times
+('die', 'auf'): 2 times
+('und', 'tieren'): 2 times
+('beiden', 'wanderer'): 2 times
+('jungen', 'leute'): 2 times
+('kleine', 'lucy'): 2 times
+('lucy', 'ferner'): 2 times
+('der', 'menge'): 2 times
+('hatten', 'auf'): 2 times
+('des', 'volkes'): 2 times
+('in', 'unserer'): 2 times
+('daß', 'ihr'): 2 times
+('ihn', 'in'): 2 times
+('auf', 'nach'): 2 times
+('nach', 'zion!'): 2 times
+('ihr', 'euch'): 2 times
+('euch', 'von'): 2 times
+('von', 'utah'): 2 times
+('den', 'westlichen'): 2 times
+('westlichen', 'abhängen'): 2 times
+('abhängen', 'des'): 2 times
+('des', 'felsengebirges'): 2 times
+('den', 'feldern'): 2 times
+('gedieh', 'in'): 2 times
+('wurde', 'der'): 2 times
+('es', 'galt'): 2 times
+('sie', 'durch'): 2 times
+('ferrier', 'und'): 2 times
+('es', 'in'): 2 times
+('john', 'ferriers'): 2 times
+('sich', 'einen'): 2 times
+('ihre', 'wangen'): 2 times
+('sich', 'ihr'): 2 times
+('sein', 'weg'): 2 times
+('auch', 'auf'): 2 times
+('mitten', 'durch'): 2 times
+('einen', 'weg'): 2 times
+('pferd', 'an'): 2 times
+('der', 'hoffnung'): 2 times
+('die', 'herde'): 2 times
+('das', 'pferd'): 2 times
+('im', 'sattel'): 2 times
+('ihre', 'hand'): 2 times
+('die', 'kraft'): 2 times
+('sah', 'ihm'): 2 times
+('seinem', 'hause'): 2 times
+('mein', 'vater'): 2 times
+('vater', 'und'): 2 times
+('sehen', 'wir'): 2 times
+('lieb', 'und'): 2 times
+('nie', 'wieder'): 2 times
+('als', 'lucy'): 2 times
+('entschwunden', 'war'): 2 times
+('die', 'liebe'): 2 times
+('gewesen', 'und'): 2 times
+('ihre', 'glühenden'): 2 times
+('glühenden', 'wangen'): 2 times
+3-grams-------------------------------------
+('in', 'die', 'höhe'): 9 times
+('in', 'der', 'hand'): 7 times
+('fuhr', 'er', 'fort'): 7 times
+('auf', 'der', 'straße'): 6 times
+('in', 'der', 'brixtonstraße'): 6 times
+('hin', 'und', 'her'): 5 times
+('in', 'die', 'hände'): 4 times
+('und', 'auf', 'der'): 4 times
+('es', 'ist', 'ein'): 4 times
+('daß', 'der', 'mann'): 4 times
+('es', 'war', 'ein'): 4 times
+('in', 'das', 'zimmer'): 4 times
+('an', 'der', 'wand'): 4 times
+('gregson', 'und', 'lestrade'): 4 times
+('über', 'den', 'fall'): 4 times
+('die', 'treppe', 'hinunter'): 4 times
+('in', 'diesem', 'augenblick'): 4 times
+('und', 'zwar', 'mit'): 3 times
+('zwar', 'mit', 'solcher'): 3 times
+('sie', 'denn', 'das'): 3 times
+('sie', 'doch', 'einmal'): 3 times
+('während', 'er', 'sprach'): 3 times
+('zum', 'vorschein', 'kam'): 3 times
+('daß', 'er', 'sich'): 3 times
+('er', 'sich', 'über'): 3 times
+('in', 'den', 'weg'): 3 times
+('wenn', 'er', 'sich'): 3 times
+('auf', 'den', 'ersten'): 3 times
+('den', 'ersten', 'blick'): 3 times
+('daß', 'ich', 'mich'): 3 times
+('von', 'menschen', 'und'): 3 times
+('ehe', 'er', 'sich'): 3 times
+('vor', 'sich', 'hin'): 3 times
+('enoch', 'j', 'drebber'): 3 times
+('in', 'einer', 'droschke'): 3 times
+('daß', 'sie', 'sich'): 3 times
+('hier', 'und', 'da'): 3 times
+('auf', 'und', 'ab'): 3 times
+('die', 'höhe', 'und'): 3 times
+('auf', 'der', 'diele'): 3 times
+('sich', 'in', 'den'): 3 times
+('die', 'feinen', 'lederstiefel'): 3 times
+('ich', 'über', 'die'): 3 times
+('auf', 'dem', 'tisch'): 3 times
+('er', 'sich', 'in'): 3 times
+('da', 'ist', 'er'): 3 times
+('ich', 'habe', 'sie'): 3 times
+('', 'es', 'ist'): 3 times
+('in', 'den', 'letzten'): 3 times
+('in', 'der', 'nähe'): 3 times
+('die', 'beiden', 'polizisten'): 3 times
+('mitten', 'in', 'der'): 3 times
+('in', 'der', 'wüste'): 3 times
+('rief', 'die', 'kleine'): 3 times
+('nur', 'noch', 'ein'): 3 times
+('ich', 'weiß', 'nicht'): 3 times
+('als', 'einer', 'der'): 3 times
+('in', 'der', 'ersten'): 2 times
+('mit', 'einer', 'großen'): 2 times
+('von', 'den', 'ausgestandenen'): 2 times
+('ich', 'in', 'den'): 2 times
+('mit', 'solcher', 'heftigkeit'): 2 times
+('solcher', 'heftigkeit', 'daß'): 2 times
+('mich', 'in', 'der'): 2 times
+('und', 'auch', 'er'): 2 times
+('saßen', 'wir', 'in'): 2 times
+('wir', 'in', 'einer'): 2 times
+('in', 'aller', 'welt'): 2 times
+('war', 'der', 'erste'): 2 times
+('dem', 'chemischen', 'laboratorium'): 2 times
+('das', 'will', 'ich'): 2 times
+('will', 'ich', 'nicht'): 2 times
+('', 'ich', 'habe'): 2 times
+('', 'er', 'ist'): 2 times
+('mensch', 'der', 'sich'): 2 times
+('ein', 'mensch', 'der'): 2 times
+('von', 'früh', 'bis'): 2 times
+('früh', 'bis', 'spät'): 2 times
+('bei', 'der', 'arbeit'): 2 times
+('auf', 'den', 'weg'): 2 times
+('den', 'weg', 'nach'): 2 times
+('weg', 'nach', 'dem'): 2 times
+('heraus', 'mit', 'der'): 2 times
+('mit', 'der', 'sprache'): 2 times
+('was', 'hast', 'du'): 2 times
+('es', 'nicht', 'für'): 2 times
+('an', 'den', 'wänden'): 2 times
+('in', 'seine', 'beobachtungen'): 2 times
+('sherlock', 'holmes', 'sagte'): 2 times
+('wissen', 'sie', 'denn'): 2 times
+('das', 'thut', 'nichts'): 2 times
+('rief', 'er', 'sich'): 2 times
+('die', 'hände', 'reibend'): 2 times
+('sehr', 'interessant', 'sein'): 2 times
+('in', 'der', 'praxis'): 2 times
+('ist', 'es', 'von'): 2 times
+('mich', 'nach', 'dem'): 2 times
+('haben', 'sagte', 'er'): 2 times
+('auf', 'dem', 'boden'): 2 times
+('rief', 'er', 'und'): 2 times
+('klatschte', 'in', 'die'): 2 times
+('vor', 'freude', 'über'): 2 times
+('es', 'scheint', 'mir'): 2 times
+('er', 'fort', 'es'): 2 times
+('er', 'die', 'hand'): 2 times
+('die', 'hand', 'in'): 2 times
+('ich', 'habe', 'ein'): 2 times
+('in', 'der', 'bakerstraße'): 2 times
+('sagte', 'er', 'sie'): 2 times
+('kümmern', 'sie', 'sich'): 2 times
+('so', '', 'nun'): 2 times
+('die', 'hand', 'schüttelnd'): 2 times
+('wir', 'ließen', 'ihn'): 2 times
+('sie', 'mir', 'nur'): 2 times
+('ihn', 'auf', 'die'): 2 times
+('das', 'ist', 'ja'): 2 times
+('auf', 'der', 'stelle'): 2 times
+('noch', 'am', 'selben'): 2 times
+('am', 'selben', 'abend'): 2 times
+('mensch', 'mit', 'dem'): 2 times
+('mit', 'dem', 'sich'): 2 times
+('und', 'wenn', 'ich'): 2 times
+('bis', 'in', 'die'): 2 times
+('ausdruck', 'an', 'daß'): 2 times
+('sechs', 'fuß', 'groß'): 2 times
+('war', 'und', 'ich'): 2 times
+('die', 'er', 'in'): 2 times
+('haben', '', 'ein'): 2 times
+('sich', 'um', 'die'): 2 times
+('um', 'die', 'sonne'): 2 times
+('meiner', 'ansicht', 'nach'): 2 times
+('sich', 'auf', 'die'): 2 times
+('er', 'bei', 'der'): 2 times
+('etwas', 'von', 'dem'): 2 times
+('nicht', 'den', 'geringsten'): 2 times
+('zu', 'ziehen', 'wenn'): 2 times
+('er', 'sich', 'nur'): 2 times
+('', 'mit', 'unterschied'): 2 times
+('verübt', 'worden', 'ist'): 2 times
+('ich', 'nicht', 'ich'): 2 times
+('er', 'lehnte', 'sich'): 2 times
+('wieder', 'in', 'der'): 2 times
+('in', 'der', 'welt'): 2 times
+('und', 'zwar', 'in'): 2 times
+('eine', 'halbe', 'stunde'): 2 times
+('daß', 'er', 'mir'): 2 times
+('kurz', 'und', 'bündig'): 2 times
+('hieß', 'es', 'weiter'): 2 times
+('läßt', 'sich', 'das'): 2 times
+('er', 'sich', 'an'): 2 times
+('sich', 'an', 'die'): 2 times
+('deutlich', 'erkennen', 'daß'): 2 times
+('beobachtung', 'und', 'schlußfolgerung'): 2 times
+('und', 'schlußfolgerung', 'die'): 2 times
+('ja', 'was', 'noch'): 2 times
+('was', 'noch', 'mehr'): 2 times
+('noch', 'mehr', 'ist'): 2 times
+('bin', 'ich', 'der'): 2 times
+('auf', 'die', 'richtige'): 2 times
+('mit', 'eigenen', 'augen'): 2 times
+('eigenen', 'augen', 'gesehen'): 2 times
+('sich', 'alles', 'zugetragen'): 2 times
+('alles', 'zugetragen', 'hat'): 2 times
+('das', 'habe', 'ich'): 2 times
+('schauplatz', 'der', 'that'): 2 times
+('wie', 'sie', 'die'): 2 times
+('hätte', 'ich', 'nicht'): 2 times
+('dachte', 'ich', 'bei'): 2 times
+('ich', 'bei', 'mir'): 2 times
+('der', 'mann', 'den'): 2 times
+('mann', 'den', 'wir'): 2 times
+('über', 'die', 'straße'): 2 times
+('auf', 'der', 'treppe'): 2 times
+('holmes', 'sagte', 'er'): 2 times
+('ich', 'mit', 'einem'): 2 times
+('der', 'königlichen', 'marine'): 2 times
+('ich', 'mich', 'nach'): 2 times
+('haben', 'sie', 'denn'): 2 times
+('der', 'mann', 'ein'): 2 times
+('in', 'der', 'marine'): 2 times
+('scheint', 'mir', 'doch'): 2 times
+('doch', 'sah', 'ich'): 2 times
+('an', 'daß', 'er'): 2 times
+('mir', 'den', 'brief'): 2 times
+('sich', 'in', 'der'): 2 times
+('er', 'in', 'das'): 2 times
+('in', 'das', 'leere'): 2 times
+('das', 'leere', 'haus'): 2 times
+('wären', 'sie', 'geneigt'): 2 times
+('in', 'der', 'ganzen'): 2 times
+('mit', 'der', 'er'): 2 times
+('unter', 'der', 'sonne'): 2 times
+('um', 'ihre', 'hilfe'): 2 times
+('weiß', 'daß', 'ich'): 2 times
+('wenn', 'sie', 'nichts'): 2 times
+('schon', 'im', 'nächsten'): 2 times
+('im', 'nächsten', 'augenblick'): 2 times
+('sie', 'sich', 'in'): 2 times
+('sind', 'wir', 'schon'): 2 times
+('das', 'haus', 'nummer'): 2 times
+('auf', 'den', 'boden'): 2 times
+('wieder', 'nach', 'dem'): 2 times
+('bevor', 'sie', 'das'): 2 times
+('an', 'ort', 'und'): 2 times
+('ort', 'und', 'stelle'): 2 times
+('aber', 'es', 'ist'): 2 times
+('', '\x0cnein', 'ich'): 2 times
+('gregson', 'machte', 'ein'): 2 times
+('holmes', 'in', 'das'): 2 times
+('das', 'zimmer', 'wo'): 2 times
+('mann', 'von', 'etwa'): 2 times
+('wie', 'ich', 'ihn'): 2 times
+('ich', 'habe', 'den'): 2 times
+('er', 'mir', 'einen'): 2 times
+('der', 'fall', 'wird'): 2 times
+('sagte', 'er', 'mit'): 2 times
+('habe', 'ich', 'noch'): 2 times
+('ich', 'noch', 'nie'): 2 times
+('war', 'neben', 'dem'): 2 times
+('haben', 'sie', 'den'): 2 times
+('mit', 'solcher', 'schnelligkeit'): 2 times
+('daß', 'ich', 'kaum'): 2 times
+('er', 'an', 'den'): 2 times
+('an', 'den', 'lippen'): 2 times
+('den', 'lippen', 'des'): 2 times
+('lippen', 'des', 'toten'): 2 times
+('genau', 'so', 'wie'): 2 times
+('dann', 'lassen', 'sie'): 2 times
+('es', 'ist', 'nichts'): 2 times
+('als', 'sie', 'die'): 2 times
+('alle', 'nach', 'dem'): 2 times
+('in', 'den', 'taschen'): 2 times
+('drebber', 'aus', 'cleveland'): 2 times
+('haben', 'sie', 'in'): 2 times
+('ist', 'heute', 'früh'): 2 times
+('wollen', 'sie', 'nicht'): 2 times
+('sagte', 'er', 'sich'): 2 times
+('er', 'sich', 'mit'): 2 times
+('sagte', 'er', 'in'): 2 times
+('und', 'auf', 'dem'): 2 times
+('fuhr', 'lestrade', 'fort'): 2 times
+('hier', 'auf', 'der'): 2 times
+('auf', 'dem', 'kaminsims'): 2 times
+('ich', 'habe', 'noch'): 2 times
+('in', 'dem', 'zimmer'): 2 times
+('aus', 'der', 'tasche'): 2 times
+('zu', 'haben', 'schien'): 2 times
+('der', 'wand', 'und'): 2 times
+('sie', 'von', 'dem'): 2 times
+('sie', 'mir', 'bitte'): 2 times
+('mir', 'bitte', 'wie'): 2 times
+('ich', 'will', 'sie'): 2 times
+('lestrade', 'und', 'gregson'): 2 times
+('denn', 'der', 'mann'): 2 times
+('nach', 'der', 'wohnung'): 2 times
+('nicht', 'mehr', 'da'): 2 times
+('das', 'aeußere', 'des'): 2 times
+('aeußere', 'des', 'mannes'): 2 times
+('an', 'die', 'wand'): 2 times
+('ich', 'schmeichle', 'mir'): 2 times
+('ich', 'überzeugt', 'bin'): 2 times
+('überzeugt', 'bin', 'daß'): 2 times
+('mit', 'der', 'hand'): 2 times
+('hand', 'an', 'die'): 2 times
+('an', 'die', 'stirn'): 2 times
+('je', 'mehr', 'ich'): 2 times
+('mehr', 'ich', 'über'): 2 times
+('die', 'hauptsache', 'bin'): 2 times
+('hauptsache', 'bin', 'ich'): 2 times
+('um', 'die', 'polizei'): 2 times
+('die', 'polizei', 'auf'): 2 times
+('falsche', 'fährte', 'zu'): 2 times
+('fährte', 'zu', 'locken'): 2 times
+('die', 'that', 'im'): 2 times
+('that', 'im', 'auftrag'): 2 times
+('', 'so', ''): 2 times
+('in', 'kürzester', 'frist'): 2 times
+('dem', 'groben', 'schuhwerk'): 2 times
+('im', 'zimmer', 'hin'): 2 times
+('zimmer', 'hin', 'und'): 2 times
+('ging', 'auf', 'und'): 2 times
+('während', 'unseres', 'gesprächs'): 2 times
+('hielt', 'der', 'kutscher'): 2 times
+('daß', 'man', 'ihn'): 2 times
+('um', 'elf', 'uhr'): 2 times
+('um', 'zu', 'sehen'): 2 times
+('zu', 'sehen', 'ob'): 2 times
+('da', 'sah', 'ich'): 2 times
+('als', 'ich', 'an'): 2 times
+('ich', 'an', 'die'): 2 times
+('von', 'seinem', 'sitz'): 2 times
+('seinem', 'sitz', 'in'): 2 times
+('sitz', 'in', 'die'): 2 times
+('daß', 'ich', 'der'): 2 times
+('die', 'herren', 'gregson'): 2 times
+('herren', 'gregson', 'und'): 2 times
+('ich', 'mit', 'meiner'): 2 times
+('unter', 'die', 'arme'): 2 times
+('was', 'ist', 'denn'): 2 times
+('aus', 'ihm', 'geworden'): 2 times
+('rief', 'holmes', 'ärgerlich'): 2 times
+('aber', 'auch', 'ganz'): 2 times
+('auch', 'ganz', 'gewiß'): 2 times
+('sich', 'in', 'die'): 2 times
+('ich', 'fühlte', 'mich'): 2 times
+('nicht', 'zu', 'denken'): 2 times
+('gewesen', 'sein', 'das'): 2 times
+('zu', 'erkennen', 'auf'): 2 times
+('auf', 'welche', 'weise'): 2 times
+('er', 'sich', 'aber'): 2 times
+('ich', 'auch', 'nicht'): 2 times
+('dem', 'tisch', 'und'): 2 times
+('sie', 'aus', 'dem'): 2 times
+('denn', 'auf', 'die'): 2 times
+('', 'was', 'glauben'): 2 times
+('was', 'glauben', 'sie'): 2 times
+('', 'das', 'ist'): 2 times
+('wir', 'haben', 'es'): 2 times
+('haben', 'es', 'mit'): 2 times
+('es', 'mit', 'einem'): 2 times
+('menschen', 'zu', 'thun'): 2 times
+('und', 'folgte', 'seinem'): 2 times
+('folgte', 'seinem', 'rat'): 2 times
+('ansicht', 'über', 'den'): 2 times
+('was', 'denken', 'sie'): 2 times
+('ist', 'er', 'schon'): 2 times
+('sie', 'mit', 'einem'): 2 times
+('ist', 'ihr', 'ring'): 2 times
+('sherlock', 'holmes', 'in'): 2 times
+('mein', 'name', 'ist'): 2 times
+('kaum', 'war', 'sie'): 2 times
+('hatte', 'sich', 'die'): 2 times
+('auf', 'der', 'andern'): 2 times
+('als', 'er', 'sich'): 2 times
+('auf', 'einen', 'stuhl'): 2 times
+('daß', 'ich', 'ihnen'): 2 times
+('war', 'keine', 'spur'): 2 times
+('und', 'daß', 'weder'): 2 times
+('wie', 'sie', 'es'): 2 times
+('schrift', 'an', 'der'): 2 times
+('in', 'torquay', 'terrace'): 2 times
+('dem', 'eustoner', 'bahnhof'): 2 times
+('bis', 'zu', 'dem'): 2 times
+('ihm', 'zu', 'entkommen'): 2 times
+('sagte', 'mein', 'gefährte'): 2 times
+('unten', 'auf', 'der'): 2 times
+('ich', 'mir', 'wohl'): 2 times
+('es', 'handelt', 'sich'): 2 times
+('die', 'rechte', 'spur'): 2 times
+('sich', 'stolz', 'in'): 2 times
+('stolz', 'in', 'die'): 2 times
+('den', 'sekretär', 'stangerson'): 2 times
+('die', 'richtige', 'spur'): 2 times
+('aber', 'das', 'ist'): 2 times
+('entgegnete', 'sie', 'mit'): 2 times
+('daß', 'er', 'in'): 2 times
+('in', 'ihren', 'augen'): 2 times
+('war', 'er', 'mit'): 2 times
+('er', 'war', 'ein'): 2 times
+('lästigen', 'menschen', 'los'): 2 times
+('stock', 'in', 'der'): 2 times
+('an', 'der', 'thür'): 2 times
+('sie', 'sich', 'denn'): 2 times
+('rief', 'holmes', 'beifällig'): 2 times
+('der', 'junge', 'mann'): 2 times
+('gegen', 'acht', 'uhr'): 2 times
+('in', 'seinem', 'schlafzimmer'): 2 times
+('er', 'sich', 'nicht'): 2 times
+('sagte', 'sherlock', 'holmes'): 2 times
+('des', 'mannes', 'war'): 2 times
+('lag', 'auf', 'dem'): 2 times
+('sprang', 'sherlock', 'holmes'): 2 times
+('daß', 'ich', 'die'): 2 times
+('ich', 'auch', 'sagte'): 2 times
+('doch', 'einmal', 'den'): 2 times
+('zu', 'kommen', 'und'): 2 times
+('auf', 'die', 'brust'): 2 times
+('rief', 'er', 'mit'): 2 times
+('sah', 'er', 'ein'): 2 times
+('er', 'ein', 'daß'): 2 times
+('unten', 'wir', 'wollen'): 2 times
+('von', 'der', 'sierra'): 2 times
+('der', 'sierra', 'bianca'): 2 times
+('sich', 'grell', 'von'): 2 times
+('verrieten', 'nur', 'zu'): 2 times
+('nur', 'zu', 'deutlich'): 2 times
+('vor', 'hunger', 'und'): 2 times
+('hunger', 'und', 'durst'): 2 times
+('hatte', 'er', 'sich'): 2 times
+('hast', 'du', 'denn'): 2 times
+('in', 'das', 'dunkle'): 2 times
+('nach', 'dem', 'westen'): 2 times
+('ein', 'mann', 'mit'): 2 times
+('hier', 'in', 'der'): 2 times
+('menschen', 'und', 'tieren'): 2 times
+('die', 'beiden', 'wanderer'): 2 times
+('einer', 'der', 'jungen'): 2 times
+('der', 'jungen', 'leute'): 2 times
+('wir', 'sind', 'die'): 2 times
+('die', 'kleine', 'lucy'): 2 times
+('sagte', 'der', 'andere'): 2 times
+('zu', 'suchen', 'und'): 2 times
+('auf', 'nach', 'zion!'): 2 times
+('ihr', 'euch', 'von'): 2 times
+('den', 'westlichen', 'abhängen'): 2 times
+('westlichen', 'abhängen', 'des'): 2 times
+('abhängen', 'des', 'felsengebirges'): 2 times
+('in', 'der', 'stadt'): 2 times
+('auf', 'den', 'feldern'): 2 times
+('gedieh', 'in', 'der'): 2 times
+('john', 'ferrier', 'und'): 2 times
+('gab', 'es', 'in'): 2 times
+('die', 'sich', 'mit'): 2 times
+('durch', 'die', 'herde'): 2 times
+('er', 'sich', 'noch'): 2 times
+('ihre', 'glühenden', 'wangen'): 2 times
+4-grams-------------------------------------
+('und', 'zwar', 'mit', 'solcher'): 3 times
+('auf', 'den', 'ersten', 'blick'): 3 times
+('mit', 'solcher', 'heftigkeit', 'daß'): 2 times
+('saßen', 'wir', 'in', 'einer'): 2 times
+('von', 'früh', 'bis', 'spät'): 2 times
+('heraus', 'mit', 'der', 'sprache'): 2 times
+('wissen', 'sie', 'denn', 'das'): 2 times
+('klatschte', 'in', 'die', 'hände'): 2 times
+('fuhr', 'er', 'fort', 'es'): 2 times
+('noch', 'am', 'selben', 'abend'): 2 times
+('sich', 'um', 'die', 'sonne'): 2 times
+('wenn', 'er', 'sich', 'nur'): 2 times
+('er', 'sich', 'an', 'die'): 2 times
+('beobachtung', 'und', 'schlußfolgerung', 'die'): 2 times
+('ja', 'was', 'noch', 'mehr'): 2 times
+('was', 'noch', 'mehr', 'ist'): 2 times
+('mit', 'eigenen', 'augen', 'gesehen'): 2 times
+('sich', 'alles', 'zugetragen', 'hat'): 2 times
+('dachte', 'ich', 'bei', 'mir'): 2 times
+('der', 'mann', 'den', 'wir'): 2 times
+('in', 'das', 'leere', 'haus'): 2 times
+('daß', 'sie', 'sich', 'in'): 2 times
+('in', 'die', 'höhe', 'und'): 2 times
+('an', 'ort', 'und', 'stelle'): 2 times
+('in', 'das', 'zimmer', 'wo'): 2 times
+('habe', 'ich', 'noch', 'nie'): 2 times
+('er', 'an', 'den', 'lippen'): 2 times
+('an', 'den', 'lippen', 'des'): 2 times
+('den', 'lippen', 'des', 'toten'): 2 times
+('an', 'der', 'wand', 'und'): 2 times
+('sie', 'mir', 'bitte', 'wie'): 2 times
+('das', 'aeußere', 'des', 'mannes'): 2 times
+('ich', 'überzeugt', 'bin', 'daß'): 2 times
+('hand', 'an', 'die', 'stirn'): 2 times
+('je', 'mehr', 'ich', 'über'): 2 times
+('mehr', 'ich', 'über', 'die'): 2 times
+('die', 'hauptsache', 'bin', 'ich'): 2 times
+('um', 'die', 'polizei', 'auf'): 2 times
+('falsche', 'fährte', 'zu', 'locken'): 2 times
+('die', 'that', 'im', 'auftrag'): 2 times
+('im', 'zimmer', 'hin', 'und'): 2 times
+('zimmer', 'hin', 'und', 'her'): 2 times
+('um', 'zu', 'sehen', 'ob'): 2 times
+('als', 'ich', 'an', 'die'): 2 times
+('von', 'seinem', 'sitz', 'in'): 2 times
+('seinem', 'sitz', 'in', 'die'): 2 times
+('sitz', 'in', 'die', 'höhe'): 2 times
+('die', 'herren', 'gregson', 'und'): 2 times
+('herren', 'gregson', 'und', 'lestrade'): 2 times
+('aber', 'auch', 'ganz', 'gewiß'): 2 times
+('auf', 'dem', 'tisch', 'und'): 2 times
+('', 'was', 'glauben', 'sie'): 2 times
+('wir', 'haben', 'es', 'mit'): 2 times
+('haben', 'es', 'mit', 'einem'): 2 times
+('und', 'folgte', 'seinem', 'rat'): 2 times
+('ansicht', 'über', 'den', 'fall'): 2 times
+('da', 'ist', 'er', 'schon'): 2 times
+('schrift', 'an', 'der', 'wand'): 2 times
+('sich', 'stolz', 'in', 'die'): 2 times
+('stock', 'in', 'der', 'hand'): 2 times
+('sah', 'er', 'ein', 'daß'): 2 times
+('mitten', 'in', 'der', 'wüste'): 2 times
+('verrieten', 'nur', 'zu', 'deutlich'): 2 times
+('vor', 'hunger', 'und', 'durst'): 2 times
+('von', 'menschen', 'und', 'tieren'): 2 times
+('einer', 'der', 'jungen', 'leute'): 2 times
+('den', 'westlichen', 'abhängen', 'des'): 2 times
+('westlichen', 'abhängen', 'des', 'felsengebirges'): 2 times
+5-grams-------------------------------------
+('ja', 'was', 'noch', 'mehr', 'ist'): 2 times
+('er', 'an', 'den', 'lippen', 'des'): 2 times
+('an', 'den', 'lippen', 'des', 'toten'): 2 times
+('je', 'mehr', 'ich', 'über', 'die'): 2 times
+('im', 'zimmer', 'hin', 'und', 'her'): 2 times
+('von', 'seinem', 'sitz', 'in', 'die'): 2 times
+('seinem', 'sitz', 'in', 'die', 'höhe'): 2 times
+('die', 'herren', 'gregson', 'und', 'lestrade'): 2 times
+('wir', 'haben', 'es', 'mit', 'einem'): 2 times
+('den', 'westlichen', 'abhängen', 'des', 'felsengebirges'): 2 times
+6-grams-------------------------------------
+('er', 'an', 'den', 'lippen', 'des', 'toten'): 2 times
+('von', 'seinem', 'sitz', 'in', 'die', 'höhe'): 2 times
+7-grams-------------------------------------
+8-grams-------------------------------------
+9-grams-------------------------------------
